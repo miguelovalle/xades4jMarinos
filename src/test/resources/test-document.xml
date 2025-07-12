@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document Id="signed-content">
+    <header>
+        <title>Documento de Prueba</title>
+        <author>XAdES Signer</author>
+    </header>
+    <content>
+        <paragraph>Este es un documento de prueba para la firma XAdES.</paragraph>
+        <timestamp>2025-07-11T08:41:00-05:00</timestamp>
+    </content>
+</document>

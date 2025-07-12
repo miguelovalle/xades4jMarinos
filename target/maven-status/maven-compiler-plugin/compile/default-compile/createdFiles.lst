@@ -1,2 +1,12 @@
+com\example\xadessigner\exception\ErrorResponse.class
+com\example\xadessigner\service\XadesSignerService$3.class
+com\example\xadessigner\service\XadesSignerService$2.class
+com\example\xadessigner\config\XadesConfigProperties$Policy.class
+com\example\xadessigner\config\XadesConfigProperties.class
 com\example\xadessigner\XadesSignerApplication.class
+com\example\xadessigner\config\XadesConfigProperties$Keystore.class
+com\example\xadessigner\exception\GlobalExceptionHandler.class
 com\example\xadessigner\controller\SignatureController.class
+com\example\xadessigner\service\XadesSignerService.class
+com\example\xadessigner\dto\SignatureRequest.class
+com\example\xadessigner\service\XadesSignerService$1.class

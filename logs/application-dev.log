@@ -1,0 +1,1280 @@
+2025-07-11 08:53:12 [main] INFO  c.e.x.service.XadesSignerServiceTest - Starting XadesSignerServiceTest using Java 17.0.12 with PID 12092 (started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 08:53:12 [main] DEBUG c.e.x.service.XadesSignerServiceTest - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 08:53:12 [main] INFO  c.e.x.service.XadesSignerServiceTest - The following 1 profile is active: "dev"
+2025-07-11 08:53:12 [main] DEBUG o.s.w.c.s.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@3277e499
+2025-07-11 08:53:15 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 3 mappings in 'requestMappingHandlerMapping'
+2025-07-11 08:53:15 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 08:53:15 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 08:53:15 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 08:53:15 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 08:53:15 [main] INFO  c.e.x.service.XadesSignerServiceTest - Started XadesSignerServiceTest in 3.757 seconds (process running for 5.117)
+2025-07-11 08:53:18 [SpringApplicationShutdownHook] DEBUG o.s.w.c.s.GenericWebApplicationContext - Closing org.springframework.web.context.support.GenericWebApplicationContext@3277e499, started on Fri Jul 11 08:53:12 COT 2025
+2025-07-11 08:54:52 [main] INFO  c.e.x.service.XadesSignerServiceTest - Starting XadesSignerServiceTest using Java 17.0.12 with PID 5660 (started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 08:54:52 [main] DEBUG c.e.x.service.XadesSignerServiceTest - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 08:54:52 [main] INFO  c.e.x.service.XadesSignerServiceTest - The following 1 profile is active: "dev"
+2025-07-11 08:54:52 [main] DEBUG o.s.w.c.s.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@22c01ab0
+2025-07-11 08:54:54 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 3 mappings in 'requestMappingHandlerMapping'
+2025-07-11 08:54:55 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 08:54:55 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 08:54:55 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 08:54:55 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 08:54:56 [main] INFO  c.e.x.service.XadesSignerServiceTest - Started XadesSignerServiceTest in 4.325 seconds (process running for 5.728)
+2025-07-11 08:54:58 [SpringApplicationShutdownHook] DEBUG o.s.w.c.s.GenericWebApplicationContext - Closing org.springframework.web.context.support.GenericWebApplicationContext@22c01ab0, started on Fri Jul 11 08:54:52 COT 2025
+2025-07-11 08:56:22 [main] INFO  c.e.x.service.XadesSignerServiceTest - Starting XadesSignerServiceTest using Java 17.0.12 with PID 14376 (started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 08:56:22 [main] DEBUG c.e.x.service.XadesSignerServiceTest - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 08:56:22 [main] INFO  c.e.x.service.XadesSignerServiceTest - The following 1 profile is active: "dev"
+2025-07-11 08:56:23 [main] DEBUG o.s.w.c.s.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@22c01ab0
+2025-07-11 08:56:25 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 3 mappings in 'requestMappingHandlerMapping'
+2025-07-11 08:56:25 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 08:56:25 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 08:56:25 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 08:56:26 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 08:56:26 [main] INFO  c.e.x.service.XadesSignerServiceTest - Started XadesSignerServiceTest in 3.755 seconds (process running for 5.118)
+2025-07-11 08:56:28 [SpringApplicationShutdownHook] DEBUG o.s.w.c.s.GenericWebApplicationContext - Closing org.springframework.web.context.support.GenericWebApplicationContext@22c01ab0, started on Fri Jul 11 08:56:23 COT 2025
+2025-07-11 14:42:21 [main] INFO  c.e.x.service.XadesSignerServiceTest - Starting XadesSignerServiceTest using Java 17.0.12 with PID 11808 (started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 14:42:21 [main] DEBUG c.e.x.service.XadesSignerServiceTest - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 14:42:21 [main] INFO  c.e.x.service.XadesSignerServiceTest - The following 1 profile is active: "dev"
+2025-07-11 14:42:21 [main] DEBUG o.s.w.c.s.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@1c32886a
+2025-07-11 14:42:25 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 3 mappings in 'requestMappingHandlerMapping'
+2025-07-11 14:42:25 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 14:42:25 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 14:42:25 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 14:42:26 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 14:42:26 [main] INFO  c.e.x.service.XadesSignerServiceTest - Started XadesSignerServiceTest in 5.706 seconds (process running for 7.445)
+2025-07-11 14:42:29 [SpringApplicationShutdownHook] DEBUG o.s.w.c.s.GenericWebApplicationContext - Closing org.springframework.web.context.support.GenericWebApplicationContext@1c32886a, started on Fri Jul 11 14:42:21 COT 2025
+2025-07-11 14:42:47 [main] INFO  c.e.x.service.XadesSignerServiceTest - Starting XadesSignerServiceTest using Java 17.0.12 with PID 3768 (started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 14:42:47 [main] DEBUG c.e.x.service.XadesSignerServiceTest - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 14:42:47 [main] INFO  c.e.x.service.XadesSignerServiceTest - The following 1 profile is active: "dev"
+2025-07-11 14:42:47 [main] DEBUG o.s.w.c.s.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@1c32886a
+2025-07-11 14:42:51 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 3 mappings in 'requestMappingHandlerMapping'
+2025-07-11 14:42:51 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 14:42:52 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 14:42:52 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 14:42:53 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 14:42:53 [main] INFO  c.e.x.service.XadesSignerServiceTest - Started XadesSignerServiceTest in 6.357 seconds (process running for 8.468)
+2025-07-11 14:42:56 [SpringApplicationShutdownHook] DEBUG o.s.w.c.s.GenericWebApplicationContext - Closing org.springframework.web.context.support.GenericWebApplicationContext@1c32886a, started on Fri Jul 11 14:42:47 COT 2025
+2025-07-11 14:45:52 [main] INFO  c.e.x.service.XadesSignerServiceTest - Starting XadesSignerServiceTest using Java 17.0.12 with PID 13884 (started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 14:45:52 [main] DEBUG c.e.x.service.XadesSignerServiceTest - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 14:45:52 [main] INFO  c.e.x.service.XadesSignerServiceTest - The following 1 profile is active: "dev"
+2025-07-11 14:45:52 [main] DEBUG o.s.w.c.s.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@1c32886a
+2025-07-11 14:45:55 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 3 mappings in 'requestMappingHandlerMapping'
+2025-07-11 14:45:55 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 14:45:55 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 14:45:56 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 14:45:56 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 14:45:57 [main] INFO  c.e.x.service.XadesSignerServiceTest - Started XadesSignerServiceTest in 5.397 seconds (process running for 7.212)
+2025-07-11 14:45:59 [SpringApplicationShutdownHook] DEBUG o.s.w.c.s.GenericWebApplicationContext - Closing org.springframework.web.context.support.GenericWebApplicationContext@1c32886a, started on Fri Jul 11 14:45:52 COT 2025
+2025-07-11 14:46:19 [main] INFO  c.e.x.service.XadesSignerServiceTest - Starting XadesSignerServiceTest using Java 17.0.12 with PID 18900 (started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 14:46:19 [main] DEBUG c.e.x.service.XadesSignerServiceTest - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 14:46:19 [main] INFO  c.e.x.service.XadesSignerServiceTest - The following 1 profile is active: "dev"
+2025-07-11 14:46:19 [main] DEBUG o.s.w.c.s.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@1c32886a
+2025-07-11 14:46:25 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 3 mappings in 'requestMappingHandlerMapping'
+2025-07-11 14:46:25 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 14:46:25 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 14:46:25 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 14:46:27 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 14:46:27 [main] INFO  c.e.x.service.XadesSignerServiceTest - Started XadesSignerServiceTest in 9.065 seconds (process running for 11.254)
+2025-07-11 14:46:30 [SpringApplicationShutdownHook] DEBUG o.s.w.c.s.GenericWebApplicationContext - Closing org.springframework.web.context.support.GenericWebApplicationContext@1c32886a, started on Fri Jul 11 14:46:19 COT 2025
+2025-07-11 14:47:06 [main] INFO  c.e.x.service.XadesSignerServiceTest - Starting XadesSignerServiceTest using Java 17.0.12 with PID 3796 (started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 14:47:06 [main] DEBUG c.e.x.service.XadesSignerServiceTest - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 14:47:06 [main] INFO  c.e.x.service.XadesSignerServiceTest - The following 1 profile is active: "dev"
+2025-07-11 14:47:06 [main] DEBUG o.s.w.c.s.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@1c32886a
+2025-07-11 14:47:10 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 3 mappings in 'requestMappingHandlerMapping'
+2025-07-11 14:47:10 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 14:47:10 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 14:47:10 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 14:47:11 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 14:47:11 [main] INFO  c.e.x.service.XadesSignerServiceTest - Started XadesSignerServiceTest in 5.909 seconds (process running for 8.427)
+2025-07-11 14:47:14 [SpringApplicationShutdownHook] DEBUG o.s.w.c.s.GenericWebApplicationContext - Closing org.springframework.web.context.support.GenericWebApplicationContext@1c32886a, started on Fri Jul 11 14:47:06 COT 2025
+2025-07-11 14:47:33 [main] INFO  c.e.x.service.XadesSignerServiceTest - Starting XadesSignerServiceTest using Java 17.0.12 with PID 23476 (started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 14:47:33 [main] DEBUG c.e.x.service.XadesSignerServiceTest - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 14:47:33 [main] INFO  c.e.x.service.XadesSignerServiceTest - The following 1 profile is active: "dev"
+2025-07-11 14:47:34 [main] DEBUG o.s.w.c.s.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@1c32886a
+2025-07-11 14:47:37 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 3 mappings in 'requestMappingHandlerMapping'
+2025-07-11 14:47:38 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 14:47:38 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 14:47:38 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 14:47:39 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 14:47:39 [main] INFO  c.e.x.service.XadesSignerServiceTest - Started XadesSignerServiceTest in 6.197 seconds (process running for 8.134)
+2025-07-11 14:47:43 [SpringApplicationShutdownHook] DEBUG o.s.w.c.s.GenericWebApplicationContext - Closing org.springframework.web.context.support.GenericWebApplicationContext@1c32886a, started on Fri Jul 11 14:47:34 COT 2025
+2025-07-11 14:48:16 [main] INFO  c.e.x.service.XadesSignerServiceTest - Starting XadesSignerServiceTest using Java 17.0.12 with PID 15108 (started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 14:48:16 [main] DEBUG c.e.x.service.XadesSignerServiceTest - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 14:48:16 [main] INFO  c.e.x.service.XadesSignerServiceTest - The following 1 profile is active: "dev"
+2025-07-11 14:48:16 [main] DEBUG o.s.w.c.s.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@1c32886a
+2025-07-11 14:48:20 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 3 mappings in 'requestMappingHandlerMapping'
+2025-07-11 14:48:20 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 14:48:20 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 14:48:20 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 14:48:21 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 14:48:21 [main] INFO  c.e.x.service.XadesSignerServiceTest - Started XadesSignerServiceTest in 6.024 seconds (process running for 8.222)
+2025-07-11 14:48:25 [SpringApplicationShutdownHook] DEBUG o.s.w.c.s.GenericWebApplicationContext - Closing org.springframework.web.context.support.GenericWebApplicationContext@1c32886a, started on Fri Jul 11 14:48:16 COT 2025
+2025-07-11 14:49:19 [main] INFO  c.e.x.service.XadesSignerServiceTest - Starting XadesSignerServiceTest using Java 17.0.12 with PID 16648 (started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 14:49:19 [main] DEBUG c.e.x.service.XadesSignerServiceTest - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 14:49:19 [main] INFO  c.e.x.service.XadesSignerServiceTest - The following 1 profile is active: "dev"
+2025-07-11 14:49:19 [main] DEBUG o.s.w.c.s.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@1b9ea3e3
+2025-07-11 14:49:23 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 3 mappings in 'requestMappingHandlerMapping'
+2025-07-11 14:49:23 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 14:49:23 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 14:49:24 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 14:49:24 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 14:49:24 [main] INFO  c.e.x.service.XadesSignerServiceTest - Started XadesSignerServiceTest in 6.352 seconds (process running for 8.203)
+2025-07-11 14:49:29 [SpringApplicationShutdownHook] DEBUG o.s.w.c.s.GenericWebApplicationContext - Closing org.springframework.web.context.support.GenericWebApplicationContext@1b9ea3e3, started on Fri Jul 11 14:49:19 COT 2025
+2025-07-11 14:50:25 [main] INFO  c.e.x.service.XadesSignerServiceTest - Starting XadesSignerServiceTest using Java 17.0.12 with PID 16348 (started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 14:50:25 [main] DEBUG c.e.x.service.XadesSignerServiceTest - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 14:50:25 [main] INFO  c.e.x.service.XadesSignerServiceTest - The following 1 profile is active: "dev"
+2025-07-11 14:50:25 [main] DEBUG o.s.w.c.s.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@1b9ea3e3
+2025-07-11 14:50:29 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 3 mappings in 'requestMappingHandlerMapping'
+2025-07-11 14:50:29 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 14:50:29 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 14:50:29 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 14:50:30 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 14:50:30 [main] INFO  c.e.x.service.XadesSignerServiceTest - Started XadesSignerServiceTest in 6.027 seconds (process running for 8.392)
+2025-07-11 14:50:35 [SpringApplicationShutdownHook] DEBUG o.s.w.c.s.GenericWebApplicationContext - Closing org.springframework.web.context.support.GenericWebApplicationContext@1b9ea3e3, started on Fri Jul 11 14:50:25 COT 2025
+2025-07-11 14:51:08 [main] INFO  c.e.x.service.XadesSignerServiceTest - Starting XadesSignerServiceTest using Java 17.0.12 with PID 18200 (started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 14:51:08 [main] DEBUG c.e.x.service.XadesSignerServiceTest - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 14:51:08 [main] INFO  c.e.x.service.XadesSignerServiceTest - The following 1 profile is active: "dev"
+2025-07-11 14:51:08 [main] DEBUG o.s.w.c.s.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@1b9ea3e3
+2025-07-11 14:51:11 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 3 mappings in 'requestMappingHandlerMapping'
+2025-07-11 14:51:11 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 14:51:11 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 14:51:11 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 14:51:12 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 14:51:12 [main] INFO  c.e.x.service.XadesSignerServiceTest - Started XadesSignerServiceTest in 4.421 seconds (process running for 5.813)
+2025-07-11 14:51:16 [SpringApplicationShutdownHook] DEBUG o.s.w.c.s.GenericWebApplicationContext - Closing org.springframework.web.context.support.GenericWebApplicationContext@1b9ea3e3, started on Fri Jul 11 14:51:08 COT 2025
+2025-07-11 14:52:26 [main] INFO  c.e.x.service.XadesSignerServiceTest - Starting XadesSignerServiceTest using Java 17.0.12 with PID 16736 (started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 14:52:26 [main] DEBUG c.e.x.service.XadesSignerServiceTest - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 14:52:26 [main] INFO  c.e.x.service.XadesSignerServiceTest - The following 1 profile is active: "dev"
+2025-07-11 14:52:26 [main] DEBUG o.s.w.c.s.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@1b9ea3e3
+2025-07-11 14:52:29 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 3 mappings in 'requestMappingHandlerMapping'
+2025-07-11 14:52:29 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 14:52:30 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 14:52:30 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 14:52:30 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 14:52:30 [main] INFO  c.e.x.service.XadesSignerServiceTest - Started XadesSignerServiceTest in 4.898 seconds (process running for 6.871)
+2025-07-11 14:52:35 [SpringApplicationShutdownHook] DEBUG o.s.w.c.s.GenericWebApplicationContext - Closing org.springframework.web.context.support.GenericWebApplicationContext@1b9ea3e3, started on Fri Jul 11 14:52:26 COT 2025
+2025-07-11 15:04:56 [main] INFO  c.e.x.service.XadesSignerServiceTest - Starting XadesSignerServiceTest using Java 17.0.12 with PID 20436 (started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 15:04:56 [main] DEBUG c.e.x.service.XadesSignerServiceTest - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 15:04:56 [main] INFO  c.e.x.service.XadesSignerServiceTest - The following 1 profile is active: "dev"
+2025-07-11 15:04:56 [main] DEBUG o.s.w.c.s.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@1b9ea3e3
+2025-07-11 15:04:59 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 3 mappings in 'requestMappingHandlerMapping'
+2025-07-11 15:05:00 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 15:05:00 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 15:05:00 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 15:05:01 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 15:05:01 [main] INFO  c.e.x.service.XadesSignerServiceTest - Started XadesSignerServiceTest in 6.012 seconds (process running for 7.823)
+2025-07-11 15:05:06 [SpringApplicationShutdownHook] DEBUG o.s.w.c.s.GenericWebApplicationContext - Closing org.springframework.web.context.support.GenericWebApplicationContext@1b9ea3e3, started on Fri Jul 11 15:04:56 COT 2025
+2025-07-11 15:05:44 [main] INFO  c.e.x.service.XadesSignerServiceTest - Starting XadesSignerServiceTest using Java 17.0.12 with PID 8048 (started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 15:05:44 [main] DEBUG c.e.x.service.XadesSignerServiceTest - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 15:05:44 [main] INFO  c.e.x.service.XadesSignerServiceTest - The following 1 profile is active: "dev"
+2025-07-11 15:05:44 [main] DEBUG o.s.w.c.s.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@1b9ea3e3
+2025-07-11 15:05:48 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 3 mappings in 'requestMappingHandlerMapping'
+2025-07-11 15:05:48 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 15:05:48 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 15:05:48 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 15:05:49 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 15:05:49 [main] INFO  c.e.x.service.XadesSignerServiceTest - Started XadesSignerServiceTest in 5.846 seconds (process running for 7.838)
+2025-07-11 15:05:54 [SpringApplicationShutdownHook] DEBUG o.s.w.c.s.GenericWebApplicationContext - Closing org.springframework.web.context.support.GenericWebApplicationContext@1b9ea3e3, started on Fri Jul 11 15:05:44 COT 2025
+2025-07-11 15:08:03 [main] INFO  c.e.x.service.XadesSignerServiceTest - Starting XadesSignerServiceTest using Java 17.0.12 with PID 20708 (started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 15:08:03 [main] DEBUG c.e.x.service.XadesSignerServiceTest - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 15:08:03 [main] INFO  c.e.x.service.XadesSignerServiceTest - The following 1 profile is active: "dev"
+2025-07-11 15:08:03 [main] DEBUG o.s.w.c.s.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@1b9ea3e3
+2025-07-11 15:08:05 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 3 mappings in 'requestMappingHandlerMapping'
+2025-07-11 15:08:05 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 15:08:05 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 15:08:05 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 15:08:06 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 15:08:06 [main] INFO  c.e.x.service.XadesSignerServiceTest - Started XadesSignerServiceTest in 3.627 seconds (process running for 5.018)
+2025-07-11 15:08:09 [SpringApplicationShutdownHook] DEBUG o.s.w.c.s.GenericWebApplicationContext - Closing org.springframework.web.context.support.GenericWebApplicationContext@1b9ea3e3, started on Fri Jul 11 15:08:03 COT 2025
+2025-07-11 15:31:57 [main] INFO  c.e.x.XadesSignerApplication - Starting XadesSignerApplication using Java 17.0.12 with PID 21432 (C:\Users\Usuario\CascadeProjects\xadesMarinos\target\classes started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 15:31:57 [main] DEBUG c.e.x.XadesSignerApplication - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 15:31:57 [main] INFO  c.e.x.XadesSignerApplication - The following 1 profile is active: "dev"
+2025-07-11 15:31:59 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-07-11 15:31:59 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-07-11 15:31:59 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2025-07-11 15:31:59 [main] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring embedded WebApplicationContext
+2025-07-11 15:31:59 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1968 ms
+2025-07-11 15:31:59 [main] DEBUG o.s.w.f.ServerHttpObservationFilter - Filter 'webMvcObservationFilter' configured for use
+2025-07-11 15:31:59 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 3 mappings in 'requestMappingHandlerMapping'
+2025-07-11 15:31:59 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 15:31:59 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 15:31:59 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 15:31:59 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 15:32:00 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/api'
+2025-07-11 15:32:00 [main] INFO  c.e.x.XadesSignerApplication - Started XadesSignerApplication in 3.643 seconds (process running for 4.231)
+2025-07-11 15:32:20 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-07-11 15:32:20 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-07-11 15:32:20 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected StandardServletMultipartResolver
+2025-07-11 15:32:20 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected AcceptHeaderLocaleResolver
+2025-07-11 15:32:20 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected FixedThemeResolver
+2025-07-11 15:32:20 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@446686a4
+2025-07-11 15:32:20 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.support.SessionFlashMapManager@4a5c8bf5
+2025-07-11 15:32:20 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2025-07-11 15:32:20 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2025-07-11 15:32:20 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - POST "/api/firma/xades-epes", parameters={}
+2025-07-11 15:32:20 [http-nio-8080-exec-1] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]
+2025-07-11 15:32:20 [http-nio-8080-exec-1] DEBUG o.s.w.s.r.ResourceHttpRequestHandler - Resource not found
+2025-07-11 15:32:20 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Using @ExceptionHandler com.example.xadessigner.exception.GlobalExceptionHandler#handleGenericException(Exception)
+2025-07-11 15:32:20 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2025-07-11 15:32:20 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [com.example.xadessigner.exception.ErrorResponse@5a791ac6]
+2025-07-11 15:32:20 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource firma/xades-epes.]
+2025-07-11 15:32:20 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Completed 400 BAD_REQUEST
+2025-07-11 15:39:56 [http-nio-8080-exec-2] DEBUG o.s.web.servlet.DispatcherServlet - POST "/api/firma/xades-epes", parameters={}
+2025-07-11 15:39:56 [http-nio-8080-exec-2] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]
+2025-07-11 15:39:56 [http-nio-8080-exec-2] DEBUG o.s.w.s.r.ResourceHttpRequestHandler - Resource not found
+2025-07-11 15:39:56 [http-nio-8080-exec-2] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Using @ExceptionHandler com.example.xadessigner.exception.GlobalExceptionHandler#handleGenericException(Exception)
+2025-07-11 15:39:56 [http-nio-8080-exec-2] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2025-07-11 15:39:56 [http-nio-8080-exec-2] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [com.example.xadessigner.exception.ErrorResponse@1ca03184]
+2025-07-11 15:39:56 [http-nio-8080-exec-2] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource firma/xades-epes.]
+2025-07-11 15:39:56 [http-nio-8080-exec-2] DEBUG o.s.web.servlet.DispatcherServlet - Completed 400 BAD_REQUEST
+2025-07-11 15:42:07 [main] INFO  c.e.x.XadesSignerApplication - Starting XadesSignerApplication using Java 17.0.12 with PID 15300 (C:\Users\Usuario\CascadeProjects\xadesMarinos\target\classes started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 15:42:07 [main] DEBUG c.e.x.XadesSignerApplication - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 15:42:07 [main] INFO  c.e.x.XadesSignerApplication - The following 1 profile is active: "dev"
+2025-07-11 15:42:11 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-07-11 15:42:11 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-07-11 15:42:11 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2025-07-11 15:42:11 [main] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring embedded WebApplicationContext
+2025-07-11 15:42:11 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3715 ms
+2025-07-11 15:42:11 [main] DEBUG o.s.w.f.ServerHttpObservationFilter - Filter 'webMvcObservationFilter' configured for use
+2025-07-11 15:42:11 [main] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'signatureController' defined in file [C:\Users\Usuario\CascadeProjects\xadesMarinos\target\classes\com\example\xadessigner\controller\SignatureController.class]: Unsatisfied dependency expressed through constructor parameter 0: Error creating bean with name 'xadesSignerService' defined in file [C:\Users\Usuario\CascadeProjects\xadesMarinos\target\classes\com\example\xadessigner\service\XadesSignerService.class]: Unsatisfied dependency expressed through constructor parameter 0: No qualifying bean of type 'com.example.xadessigner.config.XadesConfigProperties' available: expected single matching bean but found 2: xadesConfigProperties,xades-com.example.xadessigner.config.XadesConfigProperties
+2025-07-11 15:42:12 [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2025-07-11 15:42:12 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-07-11 15:42:12 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Parameter 0 of constructor in com.example.xadessigner.service.XadesSignerService required a single bean, but 2 were found:
+	- xadesConfigProperties: defined in file [C:\Users\Usuario\CascadeProjects\xadesMarinos\target\classes\com\example\xadessigner\config\XadesConfigProperties.class]
+	- xades-com.example.xadessigner.config.XadesConfigProperties: defined in unknown location
+
+
+Action:
+
+Consider marking one of the beans as @Primary, updating the consumer to accept multiple beans, or using @Qualifier to identify the bean that should be consumed
+
+2025-07-11 15:44:11 [main] INFO  c.e.x.XadesSignerApplication - Starting XadesSignerApplication using Java 17.0.12 with PID 22320 (C:\Users\Usuario\CascadeProjects\xadesMarinos\target\classes started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 15:44:11 [main] DEBUG c.e.x.XadesSignerApplication - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 15:44:11 [main] INFO  c.e.x.XadesSignerApplication - The following 1 profile is active: "dev"
+2025-07-11 15:44:13 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-07-11 15:44:13 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-07-11 15:44:13 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2025-07-11 15:44:13 [main] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring embedded WebApplicationContext
+2025-07-11 15:44:13 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1967 ms
+2025-07-11 15:44:14 [main] DEBUG o.s.w.f.ServerHttpObservationFilter - Filter 'webMvcObservationFilter' configured for use
+2025-07-11 15:44:14 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 3 mappings in 'requestMappingHandlerMapping'
+2025-07-11 15:44:14 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 15:44:14 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 15:44:14 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 15:44:14 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 15:44:14 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/api'
+2025-07-11 15:44:14 [main] INFO  c.e.x.XadesSignerApplication - Started XadesSignerApplication in 3.776 seconds (process running for 4.533)
+2025-07-11 15:44:41 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-07-11 15:44:41 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-07-11 15:44:41 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected StandardServletMultipartResolver
+2025-07-11 15:44:41 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected AcceptHeaderLocaleResolver
+2025-07-11 15:44:41 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected FixedThemeResolver
+2025-07-11 15:44:41 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@62408bf2
+2025-07-11 15:44:41 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.support.SessionFlashMapManager@7fb9690d
+2025-07-11 15:44:41 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2025-07-11 15:44:41 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 18 ms
+2025-07-11 15:44:42 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - POST "/api/firma/xades-epes", parameters={}
+2025-07-11 15:44:42 [http-nio-8080-exec-1] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]
+2025-07-11 15:44:42 [http-nio-8080-exec-1] DEBUG o.s.w.s.r.ResourceHttpRequestHandler - Resource not found
+2025-07-11 15:44:42 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Using @ExceptionHandler com.example.xadessigner.exception.GlobalExceptionHandler#handleGenericException(Exception)
+2025-07-11 15:44:42 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2025-07-11 15:44:42 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [com.example.xadessigner.exception.ErrorResponse@473b0f7a]
+2025-07-11 15:44:42 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource firma/xades-epes.]
+2025-07-11 15:44:42 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Completed 400 BAD_REQUEST
+2025-07-11 15:45:35 [http-nio-8080-exec-3] DEBUG o.s.web.servlet.DispatcherServlet - POST "/api/firma/xades-epes", parameters={}
+2025-07-11 15:45:35 [http-nio-8080-exec-3] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]
+2025-07-11 15:45:35 [http-nio-8080-exec-3] DEBUG o.s.w.s.r.ResourceHttpRequestHandler - Resource not found
+2025-07-11 15:45:35 [http-nio-8080-exec-3] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Using @ExceptionHandler com.example.xadessigner.exception.GlobalExceptionHandler#handleGenericException(Exception)
+2025-07-11 15:45:35 [http-nio-8080-exec-3] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2025-07-11 15:45:35 [http-nio-8080-exec-3] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [com.example.xadessigner.exception.ErrorResponse@8445cff]
+2025-07-11 15:45:35 [http-nio-8080-exec-3] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource firma/xades-epes.]
+2025-07-11 15:45:35 [http-nio-8080-exec-3] DEBUG o.s.web.servlet.DispatcherServlet - Completed 400 BAD_REQUEST
+2025-07-11 15:45:54 [http-nio-8080-exec-2] DEBUG o.s.web.servlet.DispatcherServlet - GET "/api/actuator/health", parameters={}
+2025-07-11 15:45:54 [http-nio-8080-exec-2] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Read "application/octet-stream" to []
+2025-07-11 15:45:54 [http-nio-8080-exec-2] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/vnd.spring-boot.actuator.v3+json', given [*/*] and supported [application/vnd.spring-boot.actuator.v3+json, application/vnd.spring-boot.actuator.v2+json, application/json]
+2025-07-11 15:45:54 [http-nio-8080-exec-2] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [org.springframework.boot.actuate.health.SystemHealth@3cab6f50]
+2025-07-11 15:45:54 [http-nio-8080-exec-2] DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2025-07-11 15:46:45 [http-nio-8080-exec-6] DEBUG o.s.web.servlet.DispatcherServlet - POST "/api/firma/xades-epes", parameters={}
+2025-07-11 15:46:45 [http-nio-8080-exec-6] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]
+2025-07-11 15:46:45 [http-nio-8080-exec-6] DEBUG o.s.w.s.r.ResourceHttpRequestHandler - Resource not found
+2025-07-11 15:46:45 [http-nio-8080-exec-6] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Using @ExceptionHandler com.example.xadessigner.exception.GlobalExceptionHandler#handleGenericException(Exception)
+2025-07-11 15:46:45 [http-nio-8080-exec-6] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2025-07-11 15:46:45 [http-nio-8080-exec-6] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [com.example.xadessigner.exception.ErrorResponse@4ed12605]
+2025-07-11 15:46:45 [http-nio-8080-exec-6] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource firma/xades-epes.]
+2025-07-11 15:46:45 [http-nio-8080-exec-6] DEBUG o.s.web.servlet.DispatcherServlet - Completed 400 BAD_REQUEST
+2025-07-11 15:50:59 [main] INFO  c.e.x.XadesSignerApplication - Starting XadesSignerApplication using Java 17.0.12 with PID 17184 (C:\Users\Usuario\CascadeProjects\xadesMarinos\target\classes started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 15:50:59 [main] DEBUG c.e.x.XadesSignerApplication - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 15:50:59 [main] INFO  c.e.x.XadesSignerApplication - The following 1 profile is active: "dev"
+2025-07-11 15:51:00 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-07-11 15:51:00 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-07-11 15:51:00 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2025-07-11 15:51:00 [main] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring embedded WebApplicationContext
+2025-07-11 15:51:00 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1486 ms
+2025-07-11 15:51:00 [main] DEBUG o.s.w.f.ServerHttpObservationFilter - Filter 'webMvcObservationFilter' configured for use
+2025-07-11 15:51:01 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 3 mappings in 'requestMappingHandlerMapping'
+2025-07-11 15:51:01 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 15:51:01 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 15:51:01 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 15:51:01 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 15:51:01 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/api'
+2025-07-11 15:51:01 [main] INFO  c.e.x.XadesSignerApplication - Started XadesSignerApplication in 2.908 seconds (process running for 3.391)
+2025-07-11 15:51:56 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-07-11 15:51:56 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-07-11 15:51:56 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected StandardServletMultipartResolver
+2025-07-11 15:51:56 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected AcceptHeaderLocaleResolver
+2025-07-11 15:51:56 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected FixedThemeResolver
+2025-07-11 15:51:56 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@339f4dd9
+2025-07-11 15:51:56 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.support.SessionFlashMapManager@720601a2
+2025-07-11 15:51:56 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2025-07-11 15:51:56 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2025-07-11 15:51:56 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - POST "/api/firma/xades-epes", parameters={}
+2025-07-11 15:51:56 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.example.xadessigner.controller.SignatureController#signXml(SignatureRequest)
+2025-07-11 15:51:56 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Read "application/json;charset=UTF-8" to [com.example.xadessigner.dto.SignatureRequest@2855c9a4]
+2025-07-11 15:51:56 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Using @ExceptionHandler com.example.xadessigner.exception.GlobalExceptionHandler#handleValidationExceptions(MethodArgumentNotValidException)
+2025-07-11 15:51:56 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2025-07-11 15:51:56 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [{certificatePath=La ruta del certificado es obligatoria, certificatePassword=La contraseña del certi (truncated)...]
+2025-07-11 15:51:56 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public org.springframework.http.ResponseEntity<?> com.example.xadessigner.controller.SignatureController.signXml(com.example.xadessigner.dto.SignatureRequest) with 3 errors: [Field error in object 'signatureRequest' on field 'certificatePath': rejected value [null]; codes [NotBlank.signatureRequest.certificatePath,NotBlank.certificatePath,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [signatureRequest.certificatePath,certificatePath]; arguments []; default message [certificatePath]]; default message [La ruta del certificado es obligatoria]] [Field error in object 'signatureRequest' on field 'certificatePassword': rejected value [null]; codes [NotBlank.signatureRequest.certificatePassword,NotBlank.certificatePassword,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [signatureRequest.certificatePassword,certificatePassword]; arguments []; default message [certificatePassword]]; default message [La contraseña del certificado es obligatoria]] [Field error in object 'signatureRequest' on field 'xmlContent': rejected value [null]; codes [NotBlank.signatureRequest.xmlContent,NotBlank.xmlContent,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [signatureRequest.xmlContent,xmlContent]; arguments []; default message [xmlContent]]; default message [El contenido XML es obligatorio]] ]
+2025-07-11 15:51:56 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Completed 400 BAD_REQUEST
+2025-07-11 15:54:13 [main] INFO  c.e.x.XadesSignerApplication - Starting XadesSignerApplication using Java 17.0.12 with PID 21988 (C:\Users\Usuario\CascadeProjects\xadesMarinos\target\classes started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 15:54:13 [main] DEBUG c.e.x.XadesSignerApplication - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 15:54:13 [main] INFO  c.e.x.XadesSignerApplication - The following 1 profile is active: "dev"
+2025-07-11 15:54:18 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-07-11 15:54:18 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-07-11 15:54:18 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2025-07-11 15:54:19 [main] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring embedded WebApplicationContext
+2025-07-11 15:54:19 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 5210 ms
+2025-07-11 15:54:19 [main] DEBUG o.s.w.f.ServerHttpObservationFilter - Filter 'webMvcObservationFilter' configured for use
+2025-07-11 15:54:19 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 3 mappings in 'requestMappingHandlerMapping'
+2025-07-11 15:54:19 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 15:54:19 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 15:54:20 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 15:54:20 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 15:54:20 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/api'
+2025-07-11 15:54:20 [main] INFO  c.e.x.XadesSignerApplication - Started XadesSignerApplication in 8.748 seconds (process running for 9.836)
+2025-07-11 15:54:46 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-07-11 15:54:46 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-07-11 15:54:46 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected StandardServletMultipartResolver
+2025-07-11 15:54:46 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected AcceptHeaderLocaleResolver
+2025-07-11 15:54:46 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected FixedThemeResolver
+2025-07-11 15:54:46 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@22e17839
+2025-07-11 15:54:46 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.support.SessionFlashMapManager@2ab0ff0e
+2025-07-11 15:54:46 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2025-07-11 15:54:46 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 8 ms
+2025-07-11 15:54:46 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - POST "/api/firma/xades-epes", parameters={}
+2025-07-11 15:54:46 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.example.xadessigner.controller.SignatureController#signXml(SignatureRequest)
+2025-07-11 15:54:46 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Read "application/json;charset=UTF-8" to [com.example.xadessigner.dto.SignatureRequest@245a8915]
+2025-07-11 15:54:47 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'text/plain', given [*/*] and supported [text/plain, */*, application/json, application/*+json]
+2025-07-11 15:54:47 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing ["Error al firmar el documento: java.lang.ExceptionInInitializerError"]
+2025-07-11 15:54:47 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Completed 400 BAD_REQUEST
+2025-07-11 15:55:50 [http-nio-8080-exec-2] DEBUG o.s.web.servlet.DispatcherServlet - GET "/api/actuator/health", parameters={}
+2025-07-11 15:55:50 [http-nio-8080-exec-2] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Read "application/octet-stream" to []
+2025-07-11 15:55:50 [http-nio-8080-exec-2] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/vnd.spring-boot.actuator.v3+json', given [*/*] and supported [application/vnd.spring-boot.actuator.v3+json, application/vnd.spring-boot.actuator.v2+json, application/json]
+2025-07-11 15:55:50 [http-nio-8080-exec-2] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [org.springframework.boot.actuate.health.SystemHealth@3fc9336]
+2025-07-11 15:55:50 [http-nio-8080-exec-2] DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2025-07-11 15:56:03 [http-nio-8080-exec-3] DEBUG o.s.web.servlet.DispatcherServlet - POST "/api/firma/xades-epes", parameters={}
+2025-07-11 15:56:03 [http-nio-8080-exec-3] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.example.xadessigner.controller.SignatureController#signXml(SignatureRequest)
+2025-07-11 15:56:03 [http-nio-8080-exec-3] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Read "application/json;charset=UTF-8" to [com.example.xadessigner.dto.SignatureRequest@659cb08b]
+2025-07-11 15:56:03 [http-nio-8080-exec-3] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'text/plain', given [*/*] and supported [text/plain, */*, application/json, application/*+json]
+2025-07-11 15:56:03 [http-nio-8080-exec-3] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing ["Error al firmar el documento: java.lang.NoClassDefFoundError: Could not initialize class com.google. (truncated)..."]
+2025-07-11 15:56:03 [http-nio-8080-exec-3] DEBUG o.s.web.servlet.DispatcherServlet - Completed 400 BAD_REQUEST
+2025-07-11 15:58:31 [main] INFO  c.e.x.XadesSignerApplication - Starting XadesSignerApplication using Java 17.0.12 with PID 18268 (C:\Users\Usuario\CascadeProjects\xadesMarinos\target\classes started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 15:58:31 [main] DEBUG c.e.x.XadesSignerApplication - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 15:58:31 [main] INFO  c.e.x.XadesSignerApplication - The following 1 profile is active: "dev"
+2025-07-11 15:58:33 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-07-11 15:58:33 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-07-11 15:58:33 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2025-07-11 15:58:34 [main] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring embedded WebApplicationContext
+2025-07-11 15:58:34 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2463 ms
+2025-07-11 15:58:34 [main] DEBUG o.s.w.f.ServerHttpObservationFilter - Filter 'webMvcObservationFilter' configured for use
+2025-07-11 15:58:34 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 3 mappings in 'requestMappingHandlerMapping'
+2025-07-11 15:58:34 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 15:58:34 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 15:58:34 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 15:58:35 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 15:58:35 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/api'
+2025-07-11 15:58:35 [main] INFO  c.e.x.XadesSignerApplication - Started XadesSignerApplication in 5.059 seconds (process running for 6.097)
+2025-07-11 15:59:07 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-07-11 15:59:07 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-07-11 15:59:07 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected StandardServletMultipartResolver
+2025-07-11 15:59:07 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected AcceptHeaderLocaleResolver
+2025-07-11 15:59:07 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected FixedThemeResolver
+2025-07-11 15:59:07 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@7314a50a
+2025-07-11 15:59:07 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.support.SessionFlashMapManager@71d45b3d
+2025-07-11 15:59:07 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2025-07-11 15:59:07 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2025-07-11 15:59:07 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - POST "/api/firma/xades-epes", parameters={}
+2025-07-11 15:59:07 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.example.xadessigner.controller.SignatureController#signXml(SignatureRequest)
+2025-07-11 15:59:07 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Read "application/json;charset=UTF-8" to [com.example.xadessigner.dto.SignatureRequest@67dab8fb]
+2025-07-11 15:59:08 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'text/plain', given [*/*] and supported [text/plain, */*, application/json, application/*+json]
+2025-07-11 15:59:08 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing ["Error al firmar el documento: Unable to create injector, see the following errors:<EOL><EOL><EOL><EOL>1) [Guice/Erro (truncated)..."]
+2025-07-11 15:59:08 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Completed 400 BAD_REQUEST
+2025-07-11 16:03:08 [main] INFO  c.e.x.XadesSignerApplication - Starting XadesSignerApplication using Java 17.0.12 with PID 22104 (C:\Users\Usuario\CascadeProjects\xadesMarinos\target\classes started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 16:03:08 [main] DEBUG c.e.x.XadesSignerApplication - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 16:03:08 [main] INFO  c.e.x.XadesSignerApplication - The following 1 profile is active: "dev"
+2025-07-11 16:03:10 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-07-11 16:03:11 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-07-11 16:03:11 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2025-07-11 16:03:11 [main] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring embedded WebApplicationContext
+2025-07-11 16:03:11 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2565 ms
+2025-07-11 16:03:11 [main] DEBUG o.s.w.f.ServerHttpObservationFilter - Filter 'webMvcObservationFilter' configured for use
+2025-07-11 16:03:11 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 3 mappings in 'requestMappingHandlerMapping'
+2025-07-11 16:03:11 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 16:03:11 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 16:03:11 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 16:03:12 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 16:03:12 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/api'
+2025-07-11 16:03:12 [main] INFO  c.e.x.XadesSignerApplication - Started XadesSignerApplication in 4.999 seconds (process running for 5.811)
+2025-07-11 16:03:33 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-07-11 16:03:33 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-07-11 16:03:33 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected StandardServletMultipartResolver
+2025-07-11 16:03:33 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected AcceptHeaderLocaleResolver
+2025-07-11 16:03:33 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected FixedThemeResolver
+2025-07-11 16:03:33 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@2f12114b
+2025-07-11 16:03:33 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.support.SessionFlashMapManager@4faf8064
+2025-07-11 16:03:33 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2025-07-11 16:03:33 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2025-07-11 16:03:33 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - POST "/api/firma/xades-epes", parameters={}
+2025-07-11 16:03:33 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.example.xadessigner.controller.SignatureController#signXml(SignatureRequest)
+2025-07-11 16:03:34 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Read "application/json;charset=UTF-8" to [com.example.xadessigner.dto.SignatureRequest@52a3388e]
+2025-07-11 16:03:34 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'text/plain', given [*/*] and supported [text/plain, */*, application/json, application/*+json]
+2025-07-11 16:03:34 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing ["Error al firmar el documento: java.lang.IllegalStateException: Unable to load cache item"]
+2025-07-11 16:03:34 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Completed 400 BAD_REQUEST
+2025-07-11 16:07:09 [http-nio-8080-exec-2] DEBUG o.s.web.servlet.DispatcherServlet - POST "/api/firma/xades-epes", parameters={}
+2025-07-11 16:07:09 [http-nio-8080-exec-2] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.example.xadessigner.controller.SignatureController#signXml(SignatureRequest)
+2025-07-11 16:07:09 [http-nio-8080-exec-2] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Read "application/json;charset=UTF-8" to [com.example.xadessigner.dto.SignatureRequest@5b1e0f79]
+2025-07-11 16:07:09 [http-nio-8080-exec-2] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'text/plain', given [*/*] and supported [text/plain, */*, application/json, application/*+json]
+2025-07-11 16:07:09 [http-nio-8080-exec-2] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing ["Error al firmar el documento: java.lang.IllegalStateException: Unable to load cache item"]
+2025-07-11 16:07:09 [http-nio-8080-exec-2] DEBUG o.s.web.servlet.DispatcherServlet - Completed 400 BAD_REQUEST
+2025-07-11 16:08:37 [main] INFO  c.e.x.XadesSignerApplication - Starting XadesSignerApplication using Java 17.0.12 with PID 21652 (C:\Users\Usuario\CascadeProjects\xadesMarinos\target\classes started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 16:08:37 [main] DEBUG c.e.x.XadesSignerApplication - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 16:08:37 [main] INFO  c.e.x.XadesSignerApplication - The following 1 profile is active: "dev"
+2025-07-11 16:08:41 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-07-11 16:08:41 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-07-11 16:08:41 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2025-07-11 16:08:41 [main] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring embedded WebApplicationContext
+2025-07-11 16:08:41 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 4595 ms
+2025-07-11 16:08:42 [main] DEBUG o.s.w.f.ServerHttpObservationFilter - Filter 'webMvcObservationFilter' configured for use
+2025-07-11 16:08:42 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 3 mappings in 'requestMappingHandlerMapping'
+2025-07-11 16:08:42 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 16:08:42 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 16:08:42 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 16:08:43 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 16:08:43 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/api'
+2025-07-11 16:08:43 [main] INFO  c.e.x.XadesSignerApplication - Started XadesSignerApplication in 7.436 seconds (process running for 8.869)
+2025-07-11 16:09:04 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-07-11 16:09:04 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-07-11 16:09:04 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected StandardServletMultipartResolver
+2025-07-11 16:09:04 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected AcceptHeaderLocaleResolver
+2025-07-11 16:09:04 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected FixedThemeResolver
+2025-07-11 16:09:04 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@7314a50a
+2025-07-11 16:09:04 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.support.SessionFlashMapManager@71d45b3d
+2025-07-11 16:09:04 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2025-07-11 16:09:04 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2025-07-11 16:09:04 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - POST "/api/firma/xades-epes", parameters={}
+2025-07-11 16:09:04 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.example.xadessigner.controller.SignatureController#signXml(SignatureRequest)
+2025-07-11 16:09:04 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Read "application/json;charset=UTF-8" to [com.example.xadessigner.dto.SignatureRequest@67dab8fb]
+2025-07-11 16:09:04 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'text/plain', given [*/*] and supported [text/plain, */*, application/json, application/*+json]
+2025-07-11 16:09:04 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing ["Error al firmar el documento: java.lang.IllegalStateException: Unable to load cache item"]
+2025-07-11 16:09:04 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Completed 400 BAD_REQUEST
+2025-07-11 16:12:30 [main] INFO  c.e.x.XadesSignerApplication - Starting XadesSignerApplication using Java 17.0.12 with PID 14948 (C:\Users\Usuario\CascadeProjects\xadesMarinos\target\classes started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 16:12:30 [main] DEBUG c.e.x.XadesSignerApplication - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 16:12:30 [main] INFO  c.e.x.XadesSignerApplication - The following 1 profile is active: "dev"
+2025-07-11 16:12:35 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-07-11 16:12:35 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-07-11 16:12:35 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2025-07-11 16:12:35 [main] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring embedded WebApplicationContext
+2025-07-11 16:12:35 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 4910 ms
+2025-07-11 16:12:36 [main] DEBUG o.s.w.f.ServerHttpObservationFilter - Filter 'webMvcObservationFilter' configured for use
+2025-07-11 16:12:36 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 3 mappings in 'requestMappingHandlerMapping'
+2025-07-11 16:12:36 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 16:12:37 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 16:12:37 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 16:12:37 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 16:12:37 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/api'
+2025-07-11 16:12:37 [main] INFO  c.e.x.XadesSignerApplication - Started XadesSignerApplication in 9.411 seconds (process running for 11.818)
+2025-07-11 16:12:57 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-07-11 16:12:57 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-07-11 16:12:57 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected StandardServletMultipartResolver
+2025-07-11 16:12:57 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected AcceptHeaderLocaleResolver
+2025-07-11 16:12:57 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected FixedThemeResolver
+2025-07-11 16:12:57 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@40f252ce
+2025-07-11 16:12:57 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.support.SessionFlashMapManager@2950199e
+2025-07-11 16:12:57 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2025-07-11 16:12:57 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 8 ms
+2025-07-11 16:12:57 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - POST "/api/firma/xades-epes", parameters={}
+2025-07-11 16:12:57 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.example.xadessigner.controller.SignatureController#signXml(SignatureRequest)
+2025-07-11 16:12:57 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Read "application/json;charset=UTF-8" to [com.example.xadessigner.dto.SignatureRequest@37b88022]
+2025-07-11 16:12:58 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'text/plain', given [*/*] and supported [text/plain, */*, application/json, application/*+json]
+2025-07-11 16:12:58 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing ["Error al firmar el documento: java.lang.IllegalStateException: Unable to load cache item"]
+2025-07-11 16:12:58 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Completed 400 BAD_REQUEST
+2025-07-11 16:23:42 [main] INFO  c.e.x.XadesSignerApplication - Starting XadesSignerApplication using Java 17.0.12 with PID 1160 (C:\Users\Usuario\CascadeProjects\xadesMarinos\target\classes started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 16:23:42 [main] DEBUG c.e.x.XadesSignerApplication - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 16:23:42 [main] INFO  c.e.x.XadesSignerApplication - The following 1 profile is active: "dev"
+2025-07-11 16:23:44 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-07-11 16:23:44 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-07-11 16:23:44 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2025-07-11 16:23:44 [main] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring embedded WebApplicationContext
+2025-07-11 16:23:44 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2253 ms
+2025-07-11 16:23:44 [main] DEBUG o.s.w.f.ServerHttpObservationFilter - Filter 'webMvcObservationFilter' configured for use
+2025-07-11 16:23:44 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 3 mappings in 'requestMappingHandlerMapping'
+2025-07-11 16:23:44 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 16:23:44 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 16:23:44 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 16:23:45 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 16:23:45 [main] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2025-07-11 16:23:45 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-07-11 16:23:45 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2025-07-11 16:24:31 [main] INFO  c.e.x.XadesSignerApplication - Starting XadesSignerApplication using Java 17.0.12 with PID 7928 (C:\Users\Usuario\CascadeProjects\xadesMarinos\target\classes started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 16:24:31 [main] DEBUG c.e.x.XadesSignerApplication - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 16:24:31 [main] INFO  c.e.x.XadesSignerApplication - The following 1 profile is active: "dev"
+2025-07-11 16:24:33 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-07-11 16:24:33 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-07-11 16:24:33 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2025-07-11 16:24:33 [main] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring embedded WebApplicationContext
+2025-07-11 16:24:33 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2462 ms
+2025-07-11 16:24:34 [main] DEBUG o.s.w.f.ServerHttpObservationFilter - Filter 'webMvcObservationFilter' configured for use
+2025-07-11 16:24:34 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 3 mappings in 'requestMappingHandlerMapping'
+2025-07-11 16:24:34 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 16:24:34 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 16:24:34 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 16:24:34 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 16:24:34 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/api'
+2025-07-11 16:24:35 [main] INFO  c.e.x.XadesSignerApplication - Started XadesSignerApplication in 4.87 seconds (process running for 5.815)
+2025-07-11 16:25:18 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-07-11 16:25:18 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-07-11 16:25:18 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected StandardServletMultipartResolver
+2025-07-11 16:25:18 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected AcceptHeaderLocaleResolver
+2025-07-11 16:25:18 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected FixedThemeResolver
+2025-07-11 16:25:18 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@a1f0020
+2025-07-11 16:25:18 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.support.SessionFlashMapManager@549a5577
+2025-07-11 16:25:18 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2025-07-11 16:25:18 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2025-07-11 16:25:18 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - POST "/api/firma/xades-epes", parameters={}
+2025-07-11 16:25:18 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.example.xadessigner.controller.SignatureController#signXml(SignatureRequest)
+2025-07-11 16:25:18 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Read "application/json;charset=UTF-8" to [com.example.xadessigner.dto.SignatureRequest@4f6ab80b]
+2025-07-11 16:25:19 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'text/plain', given [*/*] and supported [text/plain, */*, application/json, application/*+json]
+2025-07-11 16:25:19 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing ["Error al firmar el documento: keystore password was incorrect"]
+2025-07-11 16:25:19 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Completed 400 BAD_REQUEST
+2025-07-11 16:27:09 [http-nio-8080-exec-2] DEBUG o.s.web.servlet.DispatcherServlet - POST "/api/firma/xades-epes", parameters={}
+2025-07-11 16:27:09 [http-nio-8080-exec-2] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.example.xadessigner.controller.SignatureController#signXml(SignatureRequest)
+2025-07-11 16:27:09 [http-nio-8080-exec-2] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Read "application/json;charset=UTF-8" to [com.example.xadessigner.dto.SignatureRequest@1e7480f]
+2025-07-11 16:27:10 [http-nio-8080-exec-2] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'text/plain', given [*/*] and supported [text/plain, */*, application/json, application/*+json]
+2025-07-11 16:27:10 [http-nio-8080-exec-2] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing ["Error al firmar el documento: Unable to create injector, see the following errors:<EOL><EOL><EOL><EOL>1) Error injec (truncated)..."]
+2025-07-11 16:27:10 [http-nio-8080-exec-2] DEBUG o.s.web.servlet.DispatcherServlet - Completed 400 BAD_REQUEST
+2025-07-11 16:28:13 [main] INFO  c.e.x.XadesSignerApplication - Starting XadesSignerApplication using Java 17.0.12 with PID 12532 (C:\Users\Usuario\CascadeProjects\xadesMarinos\target\classes started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 16:28:13 [main] DEBUG c.e.x.XadesSignerApplication - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 16:28:13 [main] INFO  c.e.x.XadesSignerApplication - The following 1 profile is active: "dev"
+2025-07-11 16:28:15 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-07-11 16:28:15 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-07-11 16:28:15 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2025-07-11 16:28:16 [main] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring embedded WebApplicationContext
+2025-07-11 16:28:16 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2712 ms
+2025-07-11 16:28:16 [main] DEBUG o.s.w.f.ServerHttpObservationFilter - Filter 'webMvcObservationFilter' configured for use
+2025-07-11 16:28:16 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 3 mappings in 'requestMappingHandlerMapping'
+2025-07-11 16:28:16 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 16:28:16 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 16:28:16 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 16:28:17 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 16:28:17 [main] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2025-07-11 16:28:17 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-07-11 16:28:17 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2025-07-11 16:29:18 [main] INFO  c.e.x.XadesSignerApplication - Starting XadesSignerApplication using Java 17.0.12 with PID 15428 (C:\Users\Usuario\CascadeProjects\xadesMarinos\target\classes started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 16:29:18 [main] DEBUG c.e.x.XadesSignerApplication - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 16:29:18 [main] INFO  c.e.x.XadesSignerApplication - The following 1 profile is active: "dev"
+2025-07-11 16:29:21 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-07-11 16:29:21 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-07-11 16:29:21 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2025-07-11 16:29:21 [main] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring embedded WebApplicationContext
+2025-07-11 16:29:21 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2683 ms
+2025-07-11 16:29:21 [main] DEBUG o.s.w.f.ServerHttpObservationFilter - Filter 'webMvcObservationFilter' configured for use
+2025-07-11 16:29:21 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 3 mappings in 'requestMappingHandlerMapping'
+2025-07-11 16:29:22 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 16:29:22 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 16:29:22 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 16:29:22 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 16:29:22 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/api'
+2025-07-11 16:29:22 [main] INFO  c.e.x.XadesSignerApplication - Started XadesSignerApplication in 5.129 seconds (process running for 5.982)
+2025-07-11 16:30:26 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-07-11 16:30:26 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-07-11 16:30:26 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected StandardServletMultipartResolver
+2025-07-11 16:30:26 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected AcceptHeaderLocaleResolver
+2025-07-11 16:30:26 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected FixedThemeResolver
+2025-07-11 16:30:26 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@1b6ef68e
+2025-07-11 16:30:26 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.support.SessionFlashMapManager@684b7a37
+2025-07-11 16:30:26 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2025-07-11 16:30:26 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2025-07-11 16:30:26 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - POST "/api/firma/xades-epes", parameters={}
+2025-07-11 16:30:26 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.example.xadessigner.controller.SignatureController#signXml(SignatureRequest)
+2025-07-11 16:30:26 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Read "application/json;charset=UTF-8" to [com.example.xadessigner.dto.SignatureRequest@7bc09cdb]
+2025-07-11 16:30:27 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'text/plain', given [*/*] and supported [text/plain, */*, application/json, application/*+json]
+2025-07-11 16:30:27 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing ["Error al firmar el documento: Unable to create injector, see the following errors:<EOL><EOL><EOL><EOL>1) [Guice/Erro (truncated)..."]
+2025-07-11 16:30:27 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Completed 400 BAD_REQUEST
+2025-07-11 16:33:42 [main] INFO  c.e.x.XadesSignerApplication - Starting XadesSignerApplication using Java 17.0.12 with PID 4608 (C:\Users\Usuario\CascadeProjects\xadesMarinos\target\classes started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 16:33:42 [main] DEBUG c.e.x.XadesSignerApplication - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 16:33:42 [main] INFO  c.e.x.XadesSignerApplication - The following 1 profile is active: "dev"
+2025-07-11 16:33:43 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-07-11 16:33:43 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-07-11 16:33:43 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2025-07-11 16:33:43 [main] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring embedded WebApplicationContext
+2025-07-11 16:33:43 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1511 ms
+2025-07-11 16:33:43 [main] DEBUG o.s.w.f.ServerHttpObservationFilter - Filter 'webMvcObservationFilter' configured for use
+2025-07-11 16:33:43 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 3 mappings in 'requestMappingHandlerMapping'
+2025-07-11 16:33:44 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 16:33:44 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 16:33:44 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 16:33:44 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 16:33:44 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/api'
+2025-07-11 16:33:44 [main] INFO  c.e.x.XadesSignerApplication - Started XadesSignerApplication in 3.039 seconds (process running for 3.536)
+2025-07-11 18:04:26 [main] INFO  c.e.x.XadesSignerApplication - Starting XadesSignerApplication using Java 17.0.12 with PID 1392 (C:\Users\Usuario\CascadeProjects\xadesMarinos\target\classes started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 18:04:26 [main] DEBUG c.e.x.XadesSignerApplication - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 18:04:26 [main] INFO  c.e.x.XadesSignerApplication - The following 1 profile is active: "dev"
+2025-07-11 18:04:28 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-07-11 18:04:28 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-07-11 18:04:28 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2025-07-11 18:04:28 [main] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring embedded WebApplicationContext
+2025-07-11 18:04:28 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1479 ms
+2025-07-11 18:04:28 [main] DEBUG o.s.w.f.ServerHttpObservationFilter - Filter 'webMvcObservationFilter' configured for use
+2025-07-11 18:04:28 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 3 mappings in 'requestMappingHandlerMapping'
+2025-07-11 18:04:28 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 18:04:28 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 18:04:28 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 18:04:28 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 18:04:29 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/api'
+2025-07-11 18:04:29 [main] INFO  c.e.x.XadesSignerApplication - Started XadesSignerApplication in 2.915 seconds (process running for 3.329)
+2025-07-11 18:04:40 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-07-11 18:04:40 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-07-11 18:04:40 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected StandardServletMultipartResolver
+2025-07-11 18:04:40 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected AcceptHeaderLocaleResolver
+2025-07-11 18:04:40 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected FixedThemeResolver
+2025-07-11 18:04:40 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@44f6a0f3
+2025-07-11 18:04:40 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.support.SessionFlashMapManager@3102c1e7
+2025-07-11 18:04:40 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2025-07-11 18:04:40 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2025-07-11 18:04:40 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - POST "/api/firma/xades-epes", parameters={}
+2025-07-11 18:04:40 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.example.xadessigner.controller.SignatureController#signXml(SignatureRequest)
+2025-07-11 18:04:40 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Read "application/json;charset=UTF-8" to [com.example.xadessigner.dto.SignatureRequest@147b1d0e]
+2025-07-11 18:04:41 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'text/plain', given [*/*] and supported [text/plain, */*, application/json, application/*+json]
+2025-07-11 18:04:41 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing ["Error al firmar el documento: Unable to create injector, see the following errors:<EOL><EOL><EOL><EOL>1) [Guice/Erro (truncated)..."]
+2025-07-11 18:04:41 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Completed 400 BAD_REQUEST
+2025-07-11 18:14:28 [main] INFO  c.e.x.service.XadesSignerServiceTest - Starting XadesSignerServiceTest using Java 17.0.12 with PID 14280 (started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 18:14:28 [main] DEBUG c.e.x.service.XadesSignerServiceTest - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 18:14:28 [main] INFO  c.e.x.service.XadesSignerServiceTest - The following 1 profile is active: "dev"
+2025-07-11 18:14:28 [main] DEBUG o.s.w.c.s.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@21ca139c
+2025-07-11 18:14:30 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 3 mappings in 'requestMappingHandlerMapping'
+2025-07-11 18:14:30 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 18:14:30 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 18:14:30 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 18:14:31 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 18:14:31 [main] INFO  c.e.x.service.XadesSignerServiceTest - Started XadesSignerServiceTest in 3.872 seconds (process running for 5.313)
+2025-07-11 18:14:34 [SpringApplicationShutdownHook] DEBUG o.s.w.c.s.GenericWebApplicationContext - Closing org.springframework.web.context.support.GenericWebApplicationContext@21ca139c, started on Fri Jul 11 18:14:28 COT 2025
+2025-07-11 18:17:31 [main] INFO  c.e.x.service.XadesSignerServiceTest - Starting XadesSignerServiceTest using Java 17.0.12 with PID 19620 (started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 18:17:31 [main] DEBUG c.e.x.service.XadesSignerServiceTest - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 18:17:31 [main] INFO  c.e.x.service.XadesSignerServiceTest - The following 1 profile is active: "dev"
+2025-07-11 18:17:31 [main] DEBUG o.s.w.c.s.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@2cd2c8fe
+2025-07-11 18:17:34 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 3 mappings in 'requestMappingHandlerMapping'
+2025-07-11 18:17:34 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 18:17:34 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 18:17:34 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 18:17:35 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 18:17:35 [main] INFO  c.e.x.service.XadesSignerServiceTest - Started XadesSignerServiceTest in 3.99 seconds (process running for 5.419)
+2025-07-11 18:17:38 [SpringApplicationShutdownHook] DEBUG o.s.w.c.s.GenericWebApplicationContext - Closing org.springframework.web.context.support.GenericWebApplicationContext@2cd2c8fe, started on Fri Jul 11 18:17:31 COT 2025
+2025-07-11 18:21:45 [main] INFO  c.e.x.XadesSignerApplication - Starting XadesSignerApplication using Java 17.0.12 with PID 11244 (C:\Users\Usuario\CascadeProjects\xadesMarinos\target\classes started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 18:21:45 [main] DEBUG c.e.x.XadesSignerApplication - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 18:21:45 [main] INFO  c.e.x.XadesSignerApplication - The following 1 profile is active: "dev"
+2025-07-11 18:21:46 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-07-11 18:21:46 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-07-11 18:21:46 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2025-07-11 18:21:46 [main] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring embedded WebApplicationContext
+2025-07-11 18:21:46 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1497 ms
+2025-07-11 18:21:47 [main] DEBUG o.s.w.f.ServerHttpObservationFilter - Filter 'webMvcObservationFilter' configured for use
+2025-07-11 18:21:47 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 3 mappings in 'requestMappingHandlerMapping'
+2025-07-11 18:21:47 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 18:21:47 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 18:21:47 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 18:21:47 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 18:21:47 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/api'
+2025-07-11 18:21:47 [main] INFO  c.e.x.XadesSignerApplication - Started XadesSignerApplication in 2.849 seconds (process running for 3.276)
+2025-07-11 18:22:03 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-07-11 18:22:03 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-07-11 18:22:03 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected StandardServletMultipartResolver
+2025-07-11 18:22:03 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected AcceptHeaderLocaleResolver
+2025-07-11 18:22:03 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected FixedThemeResolver
+2025-07-11 18:22:03 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@4594dfbc
+2025-07-11 18:22:03 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.support.SessionFlashMapManager@76bca8e2
+2025-07-11 18:22:03 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2025-07-11 18:22:03 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2025-07-11 18:22:03 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - POST "/api/firma/xades-epes", parameters={}
+2025-07-11 18:22:03 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.example.xadessigner.controller.SignatureController#signXml(SignatureRequest)
+2025-07-11 18:22:03 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Read "application/json;charset=UTF-8" to [com.example.xadessigner.dto.SignatureRequest@6b40c554]
+2025-07-11 18:22:04 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'text/plain', given [*/*] and supported [text/plain, */*, application/json, application/*+json]
+2025-07-11 18:22:04 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing ["Error al firmar el documento: NOT_FOUND_ERR: An attempt is made to reference a node in a context whe (truncated)..."]
+2025-07-11 18:22:04 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Completed 400 BAD_REQUEST
+2025-07-11 18:25:10 [http-nio-8080-exec-4] DEBUG o.s.web.servlet.DispatcherServlet - POST "/api/firma/xades-epes", parameters={}
+2025-07-11 18:25:10 [http-nio-8080-exec-4] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.example.xadessigner.controller.SignatureController#signXml(SignatureRequest)
+2025-07-11 18:25:10 [http-nio-8080-exec-4] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Read "application/json;charset=UTF-8" to [com.example.xadessigner.dto.SignatureRequest@3611873b]
+2025-07-11 18:25:10 [http-nio-8080-exec-4] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'text/plain', given [*/*] and supported [text/plain, */*, application/json, application/*+json]
+2025-07-11 18:25:10 [http-nio-8080-exec-4] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing ["Error al firmar el documento: NOT_FOUND_ERR: An attempt is made to reference a node in a context whe (truncated)..."]
+2025-07-11 18:25:10 [http-nio-8080-exec-4] DEBUG o.s.web.servlet.DispatcherServlet - Completed 400 BAD_REQUEST
+2025-07-11 18:28:01 [http-nio-8080-exec-6] DEBUG o.s.web.servlet.DispatcherServlet - POST "/api/firma/xades-epes", parameters={}
+2025-07-11 18:28:01 [http-nio-8080-exec-6] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.example.xadessigner.controller.SignatureController#signXml(SignatureRequest)
+2025-07-11 18:28:01 [http-nio-8080-exec-6] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Read "application/json;charset=UTF-8" to [com.example.xadessigner.dto.SignatureRequest@798282b5]
+2025-07-11 18:28:01 [http-nio-8080-exec-6] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Using @ExceptionHandler com.example.xadessigner.exception.GlobalExceptionHandler#handleValidationExceptions(MethodArgumentNotValidException)
+2025-07-11 18:28:01 [http-nio-8080-exec-6] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2025-07-11 18:28:01 [http-nio-8080-exec-6] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [{certificatePath=La ruta del certificado es obligatoria, xmlContent=El contenido XML es obligatorio, (truncated)...]
+2025-07-11 18:28:01 [http-nio-8080-exec-6] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public org.springframework.http.ResponseEntity<?> com.example.xadessigner.controller.SignatureController.signXml(com.example.xadessigner.dto.SignatureRequest) with 3 errors: [Field error in object 'signatureRequest' on field 'certificatePath': rejected value [null]; codes [NotBlank.signatureRequest.certificatePath,NotBlank.certificatePath,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [signatureRequest.certificatePath,certificatePath]; arguments []; default message [certificatePath]]; default message [La ruta del certificado es obligatoria]] [Field error in object 'signatureRequest' on field 'xmlContent': rejected value [null]; codes [NotBlank.signatureRequest.xmlContent,NotBlank.xmlContent,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [signatureRequest.xmlContent,xmlContent]; arguments []; default message [xmlContent]]; default message [El contenido XML es obligatorio]] [Field error in object 'signatureRequest' on field 'certificatePassword': rejected value [null]; codes [NotBlank.signatureRequest.certificatePassword,NotBlank.certificatePassword,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [signatureRequest.certificatePassword,certificatePassword]; arguments []; default message [certificatePassword]]; default message [La contraseña del certificado es obligatoria]] ]
+2025-07-11 18:28:01 [http-nio-8080-exec-6] DEBUG o.s.web.servlet.DispatcherServlet - Completed 400 BAD_REQUEST
+2025-07-11 18:30:31 [http-nio-8080-exec-9] DEBUG o.s.web.servlet.DispatcherServlet - POST "/api/firma/xades-epes", parameters={}
+2025-07-11 18:30:31 [http-nio-8080-exec-9] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.example.xadessigner.controller.SignatureController#signXml(SignatureRequest)
+2025-07-11 18:30:31 [http-nio-8080-exec-9] DEBUG o.s.web.method.HandlerMethod - Could not resolve parameter [0] in public org.springframework.http.ResponseEntity<?> com.example.xadessigner.controller.SignatureController.signXml(com.example.xadessigner.dto.SignatureRequest): Content-Type 'application/xml;charset=UTF-8' is not supported
+2025-07-11 18:30:31 [http-nio-8080-exec-9] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Using @ExceptionHandler com.example.xadessigner.exception.GlobalExceptionHandler#handleGenericException(Exception)
+2025-07-11 18:30:31 [http-nio-8080-exec-9] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2025-07-11 18:30:31 [http-nio-8080-exec-9] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [com.example.xadessigner.exception.ErrorResponse@2639d477]
+2025-07-11 18:30:31 [http-nio-8080-exec-9] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content-Type 'application/xml;charset=UTF-8' is not supported]
+2025-07-11 18:30:31 [http-nio-8080-exec-9] DEBUG o.s.web.servlet.DispatcherServlet - Completed 400 BAD_REQUEST
+2025-07-11 18:32:40 [http-nio-8080-exec-5] DEBUG o.s.web.servlet.DispatcherServlet - POST "/api/firma/xades-epes", parameters={}
+2025-07-11 18:32:40 [http-nio-8080-exec-5] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.example.xadessigner.controller.SignatureController#signXml(SignatureRequest)
+2025-07-11 18:32:40 [http-nio-8080-exec-5] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Read "application/json;charset=UTF-8" to [com.example.xadessigner.dto.SignatureRequest@65002c76]
+2025-07-11 18:32:40 [http-nio-8080-exec-5] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Using @ExceptionHandler com.example.xadessigner.exception.GlobalExceptionHandler#handleValidationExceptions(MethodArgumentNotValidException)
+2025-07-11 18:32:40 [http-nio-8080-exec-5] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2025-07-11 18:32:40 [http-nio-8080-exec-5] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [{certificatePath=La ruta del certificado es obligatoria, xmlContent=El contenido XML es obligatorio, (truncated)...]
+2025-07-11 18:32:40 [http-nio-8080-exec-5] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public org.springframework.http.ResponseEntity<?> com.example.xadessigner.controller.SignatureController.signXml(com.example.xadessigner.dto.SignatureRequest) with 3 errors: [Field error in object 'signatureRequest' on field 'certificatePath': rejected value [null]; codes [NotBlank.signatureRequest.certificatePath,NotBlank.certificatePath,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [signatureRequest.certificatePath,certificatePath]; arguments []; default message [certificatePath]]; default message [La ruta del certificado es obligatoria]] [Field error in object 'signatureRequest' on field 'xmlContent': rejected value [null]; codes [NotBlank.signatureRequest.xmlContent,NotBlank.xmlContent,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [signatureRequest.xmlContent,xmlContent]; arguments []; default message [xmlContent]]; default message [El contenido XML es obligatorio]] [Field error in object 'signatureRequest' on field 'certificatePassword': rejected value [null]; codes [NotBlank.signatureRequest.certificatePassword,NotBlank.certificatePassword,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [signatureRequest.certificatePassword,certificatePassword]; arguments []; default message [certificatePassword]]; default message [La contraseña del certificado es obligatoria]] ]
+2025-07-11 18:32:40 [http-nio-8080-exec-5] DEBUG o.s.web.servlet.DispatcherServlet - Completed 400 BAD_REQUEST
+2025-07-11 18:39:46 [main] INFO  c.e.x.XadesSignerApplication - Starting XadesSignerApplication using Java 17.0.12 with PID 16748 (C:\Users\Usuario\CascadeProjects\xadesMarinos\target\classes started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 18:39:46 [main] DEBUG c.e.x.XadesSignerApplication - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 18:39:46 [main] INFO  c.e.x.XadesSignerApplication - The following 1 profile is active: "dev"
+2025-07-11 18:39:48 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-07-11 18:39:48 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-07-11 18:39:48 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2025-07-11 18:39:48 [main] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring embedded WebApplicationContext
+2025-07-11 18:39:48 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1468 ms
+2025-07-11 18:39:48 [main] DEBUG o.s.w.f.ServerHttpObservationFilter - Filter 'webMvcObservationFilter' configured for use
+2025-07-11 18:39:48 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 3 mappings in 'requestMappingHandlerMapping'
+2025-07-11 18:39:48 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 18:39:48 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 18:39:48 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 18:39:48 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 18:39:49 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/api'
+2025-07-11 18:39:49 [main] INFO  c.e.x.XadesSignerApplication - Started XadesSignerApplication in 2.948 seconds (process running for 3.48)
+2025-07-11 18:47:53 [main] INFO  c.e.x.XadesSignerApplication - Starting XadesSignerApplication using Java 17.0.12 with PID 23244 (C:\Users\Usuario\CascadeProjects\xadesMarinos\target\classes started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 18:47:53 [main] DEBUG c.e.x.XadesSignerApplication - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 18:47:53 [main] INFO  c.e.x.XadesSignerApplication - The following 1 profile is active: "dev"
+2025-07-11 18:47:54 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-07-11 18:47:54 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-07-11 18:47:54 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2025-07-11 18:47:54 [main] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring embedded WebApplicationContext
+2025-07-11 18:47:54 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1528 ms
+2025-07-11 18:47:55 [main] DEBUG o.s.w.f.ServerHttpObservationFilter - Filter 'webMvcObservationFilter' configured for use
+2025-07-11 18:47:55 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 3 mappings in 'requestMappingHandlerMapping'
+2025-07-11 18:47:55 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 18:47:55 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 18:47:55 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 18:47:55 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 18:47:55 [main] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2025-07-11 18:47:55 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-07-11 18:47:55 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2025-07-11 18:48:28 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-07-11 18:48:28 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-07-11 18:48:28 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected StandardServletMultipartResolver
+2025-07-11 18:48:28 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected AcceptHeaderLocaleResolver
+2025-07-11 18:48:28 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected FixedThemeResolver
+2025-07-11 18:48:28 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@72f7166
+2025-07-11 18:48:28 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.support.SessionFlashMapManager@5a5e8ad4
+2025-07-11 18:48:28 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2025-07-11 18:48:28 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2025-07-11 18:48:28 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - POST "/api/sign", parameters={}
+2025-07-11 18:48:28 [http-nio-8080-exec-1] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]
+2025-07-11 18:48:28 [http-nio-8080-exec-1] DEBUG o.s.w.s.r.ResourceHttpRequestHandler - Resource not found
+2025-07-11 18:48:28 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Using @ExceptionHandler com.example.xadessigner.exception.GlobalExceptionHandler#handleGenericException(Exception)
+2025-07-11 18:48:28 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2025-07-11 18:48:28 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [com.example.xadessigner.exception.ErrorResponse@3c7bf766]
+2025-07-11 18:48:28 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource sign.]
+2025-07-11 18:48:28 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Completed 400 BAD_REQUEST
+2025-07-11 18:49:54 [main] INFO  c.e.x.XadesSignerApplication - Starting XadesSignerApplication using Java 17.0.12 with PID 20424 (C:\Users\Usuario\CascadeProjects\xadesMarinos\target\classes started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 18:49:54 [main] DEBUG c.e.x.XadesSignerApplication - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 18:49:54 [main] INFO  c.e.x.XadesSignerApplication - The following 1 profile is active: "dev"
+2025-07-11 18:49:55 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-07-11 18:49:55 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-07-11 18:49:55 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2025-07-11 18:49:55 [main] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring embedded WebApplicationContext
+2025-07-11 18:49:55 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1588 ms
+2025-07-11 18:49:56 [main] DEBUG o.s.w.f.ServerHttpObservationFilter - Filter 'webMvcObservationFilter' configured for use
+2025-07-11 18:49:56 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 3 mappings in 'requestMappingHandlerMapping'
+2025-07-11 18:49:56 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 18:49:56 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 18:49:56 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 18:49:56 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 18:49:56 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/api'
+2025-07-11 18:49:56 [main] INFO  c.e.x.XadesSignerApplication - Started XadesSignerApplication in 3.097 seconds (process running for 3.654)
+2025-07-11 18:50:18 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-07-11 18:50:18 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-07-11 18:50:18 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected StandardServletMultipartResolver
+2025-07-11 18:50:18 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected AcceptHeaderLocaleResolver
+2025-07-11 18:50:18 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected FixedThemeResolver
+2025-07-11 18:50:18 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@55a97230
+2025-07-11 18:50:18 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.support.SessionFlashMapManager@df130b1
+2025-07-11 18:50:18 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2025-07-11 18:50:18 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2025-07-11 18:50:18 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - POST "/api/firma/xades-epes", parameters={}
+2025-07-11 18:50:18 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.example.xadessigner.controller.SignatureController#signXml(SignatureRequest)
+2025-07-11 18:50:18 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Read "application/json;charset=UTF-8" to [com.example.xadessigner.dto.SignatureRequest@39f2deef]
+2025-07-11 18:50:18 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'text/plain', given [*/*] and supported [text/plain, */*, application/json, application/*+json]
+2025-07-11 18:50:18 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing ["Error de acceso al archivo: keystore password was incorrect"]
+2025-07-11 18:50:18 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Completed 400 BAD_REQUEST
+2025-07-11 18:54:02 [http-nio-8080-exec-2] DEBUG o.s.web.servlet.DispatcherServlet - POST "/api/firma/xades-epes", parameters={}
+2025-07-11 18:54:02 [http-nio-8080-exec-2] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.example.xadessigner.controller.SignatureController#signXml(SignatureRequest)
+2025-07-11 18:54:02 [http-nio-8080-exec-2] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Read "application/json;charset=UTF-8" to [com.example.xadessigner.dto.SignatureRequest@2651ff23]
+2025-07-11 18:54:03 [http-nio-8080-exec-2] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'text/plain', given [*/*] and supported [text/plain, */*, application/json, application/*+json]
+2025-07-11 18:54:03 [http-nio-8080-exec-2] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing ["Error al firmar el documento: The prefix "cbc" for element "cbc:UBLVersionID" is not bound."]
+2025-07-11 18:54:03 [http-nio-8080-exec-2] DEBUG o.s.web.servlet.DispatcherServlet - Completed 400 BAD_REQUEST
+2025-07-11 18:56:17 [main] INFO  c.e.x.XadesSignerApplication - Starting XadesSignerApplication using Java 17.0.12 with PID 876 (C:\Users\Usuario\CascadeProjects\xadesMarinos\target\classes started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 18:56:17 [main] DEBUG c.e.x.XadesSignerApplication - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 18:56:17 [main] INFO  c.e.x.XadesSignerApplication - The following 1 profile is active: "dev"
+2025-07-11 18:56:18 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-07-11 18:56:18 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-07-11 18:56:18 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2025-07-11 18:56:19 [main] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring embedded WebApplicationContext
+2025-07-11 18:56:19 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1438 ms
+2025-07-11 18:56:19 [main] DEBUG o.s.w.f.ServerHttpObservationFilter - Filter 'webMvcObservationFilter' configured for use
+2025-07-11 18:56:19 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 3 mappings in 'requestMappingHandlerMapping'
+2025-07-11 18:56:19 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 18:56:19 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 18:56:19 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 18:56:19 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 18:56:19 [main] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2025-07-11 18:56:19 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-07-11 18:56:19 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2025-07-11 18:58:51 [main] INFO  c.e.x.XadesSignerApplication - Starting XadesSignerApplication using Java 17.0.12 with PID 8604 (C:\Users\Usuario\CascadeProjects\xadesMarinos\target\classes started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 18:58:51 [main] DEBUG c.e.x.XadesSignerApplication - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 18:58:51 [main] INFO  c.e.x.XadesSignerApplication - The following 1 profile is active: "dev"
+2025-07-11 18:58:52 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-07-11 18:58:52 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-07-11 18:58:52 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2025-07-11 18:58:52 [main] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring embedded WebApplicationContext
+2025-07-11 18:58:52 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1671 ms
+2025-07-11 18:58:53 [main] DEBUG o.s.w.f.ServerHttpObservationFilter - Filter 'webMvcObservationFilter' configured for use
+2025-07-11 18:58:53 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 3 mappings in 'requestMappingHandlerMapping'
+2025-07-11 18:58:53 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 18:58:53 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 18:58:53 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 18:58:53 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 18:58:53 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/api'
+2025-07-11 18:58:53 [main] INFO  c.e.x.XadesSignerApplication - Started XadesSignerApplication in 3.249 seconds (process running for 3.732)
+2025-07-11 18:59:22 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-07-11 18:59:22 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-07-11 18:59:22 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected StandardServletMultipartResolver
+2025-07-11 18:59:22 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected AcceptHeaderLocaleResolver
+2025-07-11 18:59:22 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected FixedThemeResolver
+2025-07-11 18:59:22 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@7f145700
+2025-07-11 18:59:22 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.support.SessionFlashMapManager@a5c6b3b
+2025-07-11 18:59:22 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2025-07-11 18:59:22 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2025-07-11 18:59:22 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - POST "/api/firma/xades-epes", parameters={}
+2025-07-11 18:59:22 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.example.xadessigner.controller.SignatureController#signXml(SignatureRequest)
+2025-07-11 18:59:22 [http-nio-8080-exec-1] DEBUG o.s.web.method.HandlerMethod - Could not resolve parameter [0] in public org.springframework.http.ResponseEntity<?> com.example.xadessigner.controller.SignatureController.signXml(com.example.xadessigner.dto.SignatureRequest): JSON parse error: Invalid UTF-8 middle byte 0x6e
+2025-07-11 18:59:22 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Using @ExceptionHandler com.example.xadessigner.exception.GlobalExceptionHandler#handleGenericException(Exception)
+2025-07-11 18:59:22 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2025-07-11 18:59:23 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [com.example.xadessigner.exception.ErrorResponse@7dde0eaa]
+2025-07-11 18:59:23 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Invalid UTF-8 middle byte 0x6e]
+2025-07-11 18:59:23 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Completed 400 BAD_REQUEST
+2025-07-11 19:00:37 [http-nio-8080-exec-3] DEBUG o.s.web.servlet.DispatcherServlet - POST "/api/firma/xades-epes", parameters={}
+2025-07-11 19:00:37 [http-nio-8080-exec-3] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.example.xadessigner.controller.SignatureController#signXml(SignatureRequest)
+2025-07-11 19:00:37 [http-nio-8080-exec-3] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Read "application/json;charset=UTF-8" to [com.example.xadessigner.dto.SignatureRequest@4f1cfc62]
+2025-07-11 19:00:39 [http-nio-8080-exec-3] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'text/plain', given [*/*] and supported [text/plain, */*, application/json, application/*+json]
+2025-07-11 19:00:39 [http-nio-8080-exec-3] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing ["<?xml version="1.0" encoding="UTF-8" standalone="no"?><EOL><EOL><FacturaElectronica xmlns="urn:oasis:names:s (truncated)..."]
+2025-07-11 19:00:39 [http-nio-8080-exec-3] DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2025-07-11 19:02:01 [main] INFO  c.e.x.XadesSignerApplication - Starting XadesSignerApplication using Java 17.0.12 with PID 11036 (C:\Users\Usuario\CascadeProjects\xadesMarinos\target\classes started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 19:02:01 [main] DEBUG c.e.x.XadesSignerApplication - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 19:02:01 [main] INFO  c.e.x.XadesSignerApplication - The following 1 profile is active: "dev"
+2025-07-11 19:02:03 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-07-11 19:02:03 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-07-11 19:02:03 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2025-07-11 19:02:03 [main] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring embedded WebApplicationContext
+2025-07-11 19:02:03 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1462 ms
+2025-07-11 19:02:03 [main] DEBUG o.s.w.f.ServerHttpObservationFilter - Filter 'webMvcObservationFilter' configured for use
+2025-07-11 19:02:03 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 3 mappings in 'requestMappingHandlerMapping'
+2025-07-11 19:02:03 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 19:02:03 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 19:02:03 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 19:02:03 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 19:02:03 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/api'
+2025-07-11 19:02:03 [main] INFO  c.e.x.XadesSignerApplication - Started XadesSignerApplication in 2.955 seconds (process running for 3.397)
+2025-07-11 19:02:38 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-07-11 19:02:38 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-07-11 19:02:38 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected StandardServletMultipartResolver
+2025-07-11 19:02:38 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected AcceptHeaderLocaleResolver
+2025-07-11 19:02:38 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected FixedThemeResolver
+2025-07-11 19:02:38 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@1dc94d08
+2025-07-11 19:02:38 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.support.SessionFlashMapManager@7fca523d
+2025-07-11 19:02:38 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2025-07-11 19:02:38 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2025-07-11 19:02:38 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - POST "/api/firma/xades-epes", parameters={}
+2025-07-11 19:02:38 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.example.xadessigner.controller.SignatureController#signXml(SignatureRequest)
+2025-07-11 19:02:38 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Read "application/json;charset=UTF-8" to [com.example.xadessigner.dto.SignatureRequest@71fdc463]
+2025-07-11 19:02:39 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Using @ExceptionHandler com.example.xadessigner.exception.GlobalExceptionHandler#handleValidationExceptions(MethodArgumentNotValidException)
+2025-07-11 19:02:39 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2025-07-11 19:02:39 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [{certificatePath=La ruta del certificado es obligatoria, xmlContent=El contenido XML es obligatorio, (truncated)...]
+2025-07-11 19:02:39 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public org.springframework.http.ResponseEntity<?> com.example.xadessigner.controller.SignatureController.signXml(com.example.xadessigner.dto.SignatureRequest) with 3 errors: [Field error in object 'signatureRequest' on field 'certificatePath': rejected value [null]; codes [NotBlank.signatureRequest.certificatePath,NotBlank.certificatePath,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [signatureRequest.certificatePath,certificatePath]; arguments []; default message [certificatePath]]; default message [La ruta del certificado es obligatoria]] [Field error in object 'signatureRequest' on field 'xmlContent': rejected value [null]; codes [NotBlank.signatureRequest.xmlContent,NotBlank.xmlContent,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [signatureRequest.xmlContent,xmlContent]; arguments []; default message [xmlContent]]; default message [El contenido XML es obligatorio]] [Field error in object 'signatureRequest' on field 'certificatePassword': rejected value [null]; codes [NotBlank.signatureRequest.certificatePassword,NotBlank.certificatePassword,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [signatureRequest.certificatePassword,certificatePassword]; arguments []; default message [certificatePassword]]; default message [La contraseña del certificado es obligatoria]] ]
+2025-07-11 19:02:39 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Completed 400 BAD_REQUEST
+2025-07-11 19:05:08 [main] INFO  c.e.x.XadesSignerApplication - Starting XadesSignerApplication using Java 17.0.12 with PID 9212 (C:\Users\Usuario\CascadeProjects\xadesMarinos\target\classes started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 19:05:08 [main] DEBUG c.e.x.XadesSignerApplication - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 19:05:08 [main] INFO  c.e.x.XadesSignerApplication - The following 1 profile is active: "dev"
+2025-07-11 19:05:09 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-07-11 19:05:09 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-07-11 19:05:09 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2025-07-11 19:05:10 [main] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring embedded WebApplicationContext
+2025-07-11 19:05:10 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1461 ms
+2025-07-11 19:05:10 [main] DEBUG o.s.w.f.ServerHttpObservationFilter - Filter 'webMvcObservationFilter' configured for use
+2025-07-11 19:05:10 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 3 mappings in 'requestMappingHandlerMapping'
+2025-07-11 19:05:10 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 19:05:10 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 19:05:10 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 19:05:10 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 19:05:10 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/api'
+2025-07-11 19:05:10 [main] INFO  c.e.x.XadesSignerApplication - Started XadesSignerApplication in 2.82 seconds (process running for 3.225)
+2025-07-11 19:05:49 [main] INFO  c.e.x.XadesSignerApplication - Starting XadesSignerApplication using Java 17.0.12 with PID 21896 (C:\Users\Usuario\CascadeProjects\xadesMarinos\target\classes started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 19:05:49 [main] DEBUG c.e.x.XadesSignerApplication - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 19:05:49 [main] INFO  c.e.x.XadesSignerApplication - The following 1 profile is active: "dev"
+2025-07-11 19:05:51 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-07-11 19:05:51 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-07-11 19:05:51 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2025-07-11 19:05:51 [main] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring embedded WebApplicationContext
+2025-07-11 19:05:51 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1540 ms
+2025-07-11 19:05:51 [main] DEBUG o.s.w.f.ServerHttpObservationFilter - Filter 'webMvcObservationFilter' configured for use
+2025-07-11 19:05:51 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 3 mappings in 'requestMappingHandlerMapping'
+2025-07-11 19:05:51 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 19:05:51 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 19:05:51 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 19:05:52 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 19:05:52 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/api'
+2025-07-11 19:05:52 [main] INFO  c.e.x.XadesSignerApplication - Started XadesSignerApplication in 2.997 seconds (process running for 3.397)
+2025-07-11 19:06:08 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-07-11 19:06:08 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-07-11 19:06:08 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected StandardServletMultipartResolver
+2025-07-11 19:06:08 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected AcceptHeaderLocaleResolver
+2025-07-11 19:06:08 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected FixedThemeResolver
+2025-07-11 19:06:08 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@6e2945ab
+2025-07-11 19:06:08 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.support.SessionFlashMapManager@1c18d18f
+2025-07-11 19:06:08 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2025-07-11 19:06:08 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2025-07-11 19:06:08 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - POST "/api/firma/xades-epes", parameters={}
+2025-07-11 19:06:08 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.example.xadessigner.controller.SignatureController#signXml(SignatureRequest)
+2025-07-11 19:06:08 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Read "application/json;charset=UTF-8" to [com.example.xadessigner.dto.SignatureRequest@24503ef5]
+2025-07-11 19:06:08 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Using @ExceptionHandler com.example.xadessigner.exception.GlobalExceptionHandler#handleValidationExceptions(MethodArgumentNotValidException)
+2025-07-11 19:06:08 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2025-07-11 19:06:08 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [{certificatePath=La ruta del certificado es obligatoria, certificatePassword=La contraseña del certi (truncated)...]
+2025-07-11 19:06:08 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public org.springframework.http.ResponseEntity<?> com.example.xadessigner.controller.SignatureController.signXml(com.example.xadessigner.dto.SignatureRequest) with 3 errors: [Field error in object 'signatureRequest' on field 'certificatePassword': rejected value [null]; codes [NotBlank.signatureRequest.certificatePassword,NotBlank.certificatePassword,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [signatureRequest.certificatePassword,certificatePassword]; arguments []; default message [certificatePassword]]; default message [La contraseña del certificado es obligatoria]] [Field error in object 'signatureRequest' on field 'certificatePath': rejected value [null]; codes [NotBlank.signatureRequest.certificatePath,NotBlank.certificatePath,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [signatureRequest.certificatePath,certificatePath]; arguments []; default message [certificatePath]]; default message [La ruta del certificado es obligatoria]] [Field error in object 'signatureRequest' on field 'xmlContent': rejected value [null]; codes [NotBlank.signatureRequest.xmlContent,NotBlank.xmlContent,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [signatureRequest.xmlContent,xmlContent]; arguments []; default message [xmlContent]]; default message [El contenido XML es obligatorio]] ]
+2025-07-11 19:06:08 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Completed 400 BAD_REQUEST
+2025-07-11 19:10:41 [main] INFO  c.e.x.XadesSignerApplication - Starting XadesSignerApplication using Java 17.0.12 with PID 2668 (C:\Users\Usuario\CascadeProjects\xadesMarinos\target\classes started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 19:10:41 [main] DEBUG c.e.x.XadesSignerApplication - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 19:10:41 [main] INFO  c.e.x.XadesSignerApplication - The following 1 profile is active: "dev"
+2025-07-11 19:10:43 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-07-11 19:10:43 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-07-11 19:10:43 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2025-07-11 19:10:43 [main] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring embedded WebApplicationContext
+2025-07-11 19:10:43 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1987 ms
+2025-07-11 19:10:43 [main] DEBUG o.s.w.f.ServerHttpObservationFilter - Filter 'webMvcObservationFilter' configured for use
+2025-07-11 19:10:43 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 3 mappings in 'requestMappingHandlerMapping'
+2025-07-11 19:10:43 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 19:10:44 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 19:10:44 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 19:10:44 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 19:10:44 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/api'
+2025-07-11 19:10:44 [main] INFO  c.e.x.XadesSignerApplication - Started XadesSignerApplication in 3.825 seconds (process running for 4.355)
+2025-07-11 19:11:21 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-07-11 19:11:21 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-07-11 19:11:21 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected StandardServletMultipartResolver
+2025-07-11 19:11:21 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected AcceptHeaderLocaleResolver
+2025-07-11 19:11:21 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected FixedThemeResolver
+2025-07-11 19:11:21 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@55a97230
+2025-07-11 19:11:21 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.support.SessionFlashMapManager@df130b1
+2025-07-11 19:11:21 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2025-07-11 19:11:21 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2025-07-11 19:11:21 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - POST "/api/firma/xades-epes", parameters={}
+2025-07-11 19:11:21 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.example.xadessigner.controller.SignatureController#signXml(SignatureRequest)
+2025-07-11 19:11:21 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Read "application/json;charset=UTF-8" to [com.example.xadessigner.dto.SignatureRequest@39f2deef]
+2025-07-11 19:11:21 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Using @ExceptionHandler com.example.xadessigner.exception.GlobalExceptionHandler#handleValidationExceptions(MethodArgumentNotValidException)
+2025-07-11 19:11:21 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2025-07-11 19:11:21 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [{certificatePath=La ruta del certificado es obligatoria, certificatePassword=La contraseña del certi (truncated)...]
+2025-07-11 19:11:21 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public org.springframework.http.ResponseEntity<?> com.example.xadessigner.controller.SignatureController.signXml(com.example.xadessigner.dto.SignatureRequest) with 3 errors: [Field error in object 'signatureRequest' on field 'certificatePath': rejected value [null]; codes [NotBlank.signatureRequest.certificatePath,NotBlank.certificatePath,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [signatureRequest.certificatePath,certificatePath]; arguments []; default message [certificatePath]]; default message [La ruta del certificado es obligatoria]] [Field error in object 'signatureRequest' on field 'certificatePassword': rejected value [null]; codes [NotBlank.signatureRequest.certificatePassword,NotBlank.certificatePassword,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [signatureRequest.certificatePassword,certificatePassword]; arguments []; default message [certificatePassword]]; default message [La contraseña del certificado es obligatoria]] [Field error in object 'signatureRequest' on field 'xmlContent': rejected value [null]; codes [NotBlank.signatureRequest.xmlContent,NotBlank.xmlContent,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [signatureRequest.xmlContent,xmlContent]; arguments []; default message [xmlContent]]; default message [El contenido XML es obligatorio]] ]
+2025-07-11 19:11:21 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Completed 400 BAD_REQUEST
+2025-07-11 19:14:41 [http-nio-8080-exec-2] DEBUG o.s.web.servlet.DispatcherServlet - POST "/api/firma/xades-epes", parameters={}
+2025-07-11 19:14:41 [http-nio-8080-exec-2] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.example.xadessigner.controller.SignatureController#signXml(SignatureRequest)
+2025-07-11 19:14:41 [http-nio-8080-exec-2] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Read "application/json;charset=UTF-8" to [com.example.xadessigner.dto.SignatureRequest@2651ff23]
+2025-07-11 19:14:43 [http-nio-8080-exec-2] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'text/plain', given [*/*] and supported [text/plain, */*, application/json, application/*+json]
+2025-07-11 19:14:43 [http-nio-8080-exec-2] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing ["<?xml version="1.0" encoding="UTF-8" standalone="no"?><EOL><EOL><FacturaElectronica xmlns="urn:oasis:names:s (truncated)..."]
+2025-07-11 19:14:43 [http-nio-8080-exec-2] DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2025-07-11 19:23:47 [http-nio-8080-exec-4] DEBUG o.s.web.servlet.DispatcherServlet - POST "/api/firma/test", parameters={}
+2025-07-11 19:23:47 [http-nio-8080-exec-4] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]
+2025-07-11 19:23:47 [http-nio-8080-exec-4] DEBUG o.s.w.s.r.ResourceHttpRequestHandler - Resource not found
+2025-07-11 19:23:47 [http-nio-8080-exec-4] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Using @ExceptionHandler com.example.xadessigner.exception.GlobalExceptionHandler#handleGenericException(Exception)
+2025-07-11 19:23:47 [http-nio-8080-exec-4] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2025-07-11 19:23:47 [http-nio-8080-exec-4] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [com.example.xadessigner.exception.ErrorResponse@7280ce4f]
+2025-07-11 19:23:47 [http-nio-8080-exec-4] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource firma/test.]
+2025-07-11 19:23:47 [http-nio-8080-exec-4] DEBUG o.s.web.servlet.DispatcherServlet - Completed 400 BAD_REQUEST
+2025-07-11 19:26:37 [main] INFO  c.e.x.XadesSignerApplication - Starting XadesSignerApplication using Java 17.0.12 with PID 18928 (C:\Users\Usuario\CascadeProjects\xadesMarinos\target\classes started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 19:26:37 [main] DEBUG c.e.x.XadesSignerApplication - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 19:26:37 [main] INFO  c.e.x.XadesSignerApplication - The following 1 profile is active: "dev"
+2025-07-11 19:26:39 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-07-11 19:26:39 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-07-11 19:26:39 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2025-07-11 19:26:39 [main] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring embedded WebApplicationContext
+2025-07-11 19:26:39 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2509 ms
+2025-07-11 19:26:39 [main] DEBUG o.s.w.f.ServerHttpObservationFilter - Filter 'webMvcObservationFilter' configured for use
+2025-07-11 19:26:40 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 4 mappings in 'requestMappingHandlerMapping'
+2025-07-11 19:26:40 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 19:26:40 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 19:26:40 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 19:26:40 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 19:26:40 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/api'
+2025-07-11 19:26:40 [main] INFO  c.e.x.XadesSignerApplication - Started XadesSignerApplication in 4.555 seconds (process running for 5.145)
+2025-07-11 20:00:40 [main] INFO  c.e.x.XadesSignerApplication - Starting XadesSignerApplication using Java 17.0.12 with PID 16476 (C:\Users\Usuario\CascadeProjects\xadesMarinos\target\classes started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 20:00:40 [main] DEBUG c.e.x.XadesSignerApplication - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 20:00:40 [main] INFO  c.e.x.XadesSignerApplication - The following 1 profile is active: "dev"
+2025-07-11 20:00:42 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-07-11 20:00:42 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-07-11 20:00:42 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2025-07-11 20:00:42 [main] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring embedded WebApplicationContext
+2025-07-11 20:00:42 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1586 ms
+2025-07-11 20:00:42 [main] DEBUG o.s.w.f.ServerHttpObservationFilter - Filter 'webMvcObservationFilter' configured for use
+2025-07-11 20:00:42 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 4 mappings in 'requestMappingHandlerMapping'
+2025-07-11 20:00:42 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 20:00:42 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 20:00:42 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 20:00:42 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 20:00:43 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/api'
+2025-07-11 20:00:43 [main] INFO  c.e.x.XadesSignerApplication - Started XadesSignerApplication in 3.078 seconds (process running for 3.586)
+2025-07-11 20:00:49 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-07-11 20:00:49 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-07-11 20:00:49 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected StandardServletMultipartResolver
+2025-07-11 20:00:49 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected AcceptHeaderLocaleResolver
+2025-07-11 20:00:49 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected FixedThemeResolver
+2025-07-11 20:00:49 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@5511ed28
+2025-07-11 20:00:49 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.support.SessionFlashMapManager@45de2e34
+2025-07-11 20:00:49 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2025-07-11 20:00:49 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2025-07-11 20:00:49 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - POST "/api/firma/test", parameters={}
+2025-07-11 20:00:49 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.example.xadessigner.controller.SignatureController#testEndpoint(SignatureRequest)
+2025-07-11 20:00:49 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Read "application/json;charset=UTF-8" to [com.example.xadessigner.dto.SignatureRequest@3a6a0de3]
+2025-07-11 20:00:50 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [application/json, text/plain, */*] and supported [text/plain, */*, application/json, application/*+json]
+2025-07-11 20:00:50 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing ["Test endpoint working - JSON received correctly"]
+2025-07-11 20:00:50 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2025-07-11 20:02:32 [http-nio-8080-exec-3] DEBUG o.s.web.servlet.DispatcherServlet - POST "/api/firma/xades-epes", parameters={}
+2025-07-11 20:02:32 [http-nio-8080-exec-3] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.example.xadessigner.controller.SignatureController#signXml(SignatureRequest)
+2025-07-11 20:02:32 [http-nio-8080-exec-3] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Read "application/json;charset=UTF-8" to [com.example.xadessigner.dto.SignatureRequest@6b719b53]
+2025-07-11 20:02:32 [http-nio-8080-exec-3] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Using @ExceptionHandler com.example.xadessigner.exception.GlobalExceptionHandler#handleValidationExceptions(MethodArgumentNotValidException)
+2025-07-11 20:02:32 [http-nio-8080-exec-3] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2025-07-11 20:02:32 [http-nio-8080-exec-3] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [{certificatePath=La ruta del certificado es obligatoria, xmlContent=El contenido XML es obligatorio, (truncated)...]
+2025-07-11 20:02:32 [http-nio-8080-exec-3] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public org.springframework.http.ResponseEntity<?> com.example.xadessigner.controller.SignatureController.signXml(com.example.xadessigner.dto.SignatureRequest) with 3 errors: [Field error in object 'signatureRequest' on field 'xmlContent': rejected value [null]; codes [NotBlank.signatureRequest.xmlContent,NotBlank.xmlContent,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [signatureRequest.xmlContent,xmlContent]; arguments []; default message [xmlContent]]; default message [El contenido XML es obligatorio]] [Field error in object 'signatureRequest' on field 'certificatePassword': rejected value [null]; codes [NotBlank.signatureRequest.certificatePassword,NotBlank.certificatePassword,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [signatureRequest.certificatePassword,certificatePassword]; arguments []; default message [certificatePassword]]; default message [La contraseña del certificado es obligatoria]] [Field error in object 'signatureRequest' on field 'certificatePath': rejected value [null]; codes [NotBlank.signatureRequest.certificatePath,NotBlank.certificatePath,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [signatureRequest.certificatePath,certificatePath]; arguments []; default message [certificatePath]]; default message [La ruta del certificado es obligatoria]] ]
+2025-07-11 20:02:32 [http-nio-8080-exec-3] DEBUG o.s.web.servlet.DispatcherServlet - Completed 400 BAD_REQUEST
+2025-07-11 20:03:02 [http-nio-8080-exec-2] DEBUG o.s.web.servlet.DispatcherServlet - POST "/api/firma/xades-epes", parameters={}
+2025-07-11 20:03:02 [http-nio-8080-exec-2] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.example.xadessigner.controller.SignatureController#signXml(SignatureRequest)
+2025-07-11 20:03:02 [http-nio-8080-exec-2] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Read "application/json;charset=UTF-8" to [com.example.xadessigner.dto.SignatureRequest@6412f853]
+2025-07-11 20:03:02 [http-nio-8080-exec-2] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Using @ExceptionHandler com.example.xadessigner.exception.GlobalExceptionHandler#handleValidationExceptions(MethodArgumentNotValidException)
+2025-07-11 20:03:02 [http-nio-8080-exec-2] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2025-07-11 20:03:02 [http-nio-8080-exec-2] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [{certificatePath=La ruta del certificado es obligatoria, xmlContent=El contenido XML es obligatorio, (truncated)...]
+2025-07-11 20:03:02 [http-nio-8080-exec-2] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public org.springframework.http.ResponseEntity<?> com.example.xadessigner.controller.SignatureController.signXml(com.example.xadessigner.dto.SignatureRequest) with 3 errors: [Field error in object 'signatureRequest' on field 'xmlContent': rejected value [null]; codes [NotBlank.signatureRequest.xmlContent,NotBlank.xmlContent,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [signatureRequest.xmlContent,xmlContent]; arguments []; default message [xmlContent]]; default message [El contenido XML es obligatorio]] [Field error in object 'signatureRequest' on field 'certificatePassword': rejected value [null]; codes [NotBlank.signatureRequest.certificatePassword,NotBlank.certificatePassword,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [signatureRequest.certificatePassword,certificatePassword]; arguments []; default message [certificatePassword]]; default message [La contraseña del certificado es obligatoria]] [Field error in object 'signatureRequest' on field 'certificatePath': rejected value [null]; codes [NotBlank.signatureRequest.certificatePath,NotBlank.certificatePath,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [signatureRequest.certificatePath,certificatePath]; arguments []; default message [certificatePath]]; default message [La ruta del certificado es obligatoria]] ]
+2025-07-11 20:03:02 [http-nio-8080-exec-2] DEBUG o.s.web.servlet.DispatcherServlet - Completed 400 BAD_REQUEST
+2025-07-11 20:19:37 [main] INFO  c.e.x.XadesSignerApplication - Starting XadesSignerApplication using Java 17.0.12 with PID 22548 (C:\Users\Usuario\CascadeProjects\xadesMarinos\target\classes started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 20:19:37 [main] DEBUG c.e.x.XadesSignerApplication - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 20:19:37 [main] INFO  c.e.x.XadesSignerApplication - The following 1 profile is active: "dev"
+2025-07-11 20:19:38 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-07-11 20:19:38 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-07-11 20:19:38 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2025-07-11 20:19:39 [main] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring embedded WebApplicationContext
+2025-07-11 20:19:39 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1468 ms
+2025-07-11 20:19:39 [main] DEBUG o.s.w.f.ServerHttpObservationFilter - Filter 'webMvcObservationFilter' configured for use
+2025-07-11 20:19:39 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 4 mappings in 'requestMappingHandlerMapping'
+2025-07-11 20:19:39 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 20:19:39 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 20:19:39 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 20:19:39 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 20:19:39 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/api'
+2025-07-11 20:19:39 [main] INFO  c.e.x.XadesSignerApplication - Started XadesSignerApplication in 2.804 seconds (process running for 3.245)
+2025-07-11 20:20:10 [main] INFO  c.e.x.service.XadesSignerServiceTest - Starting XadesSignerServiceTest using Java 17.0.12 with PID 11420 (started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 20:20:10 [main] DEBUG c.e.x.service.XadesSignerServiceTest - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 20:20:10 [main] INFO  c.e.x.service.XadesSignerServiceTest - The following 1 profile is active: "dev"
+2025-07-11 20:20:10 [main] DEBUG o.s.w.c.s.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@7d61eccf
+2025-07-11 20:20:13 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 4 mappings in 'requestMappingHandlerMapping'
+2025-07-11 20:20:13 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 20:20:13 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 20:20:13 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 20:20:14 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 20:20:14 [main] INFO  c.e.x.service.XadesSignerServiceTest - Started XadesSignerServiceTest in 4.613 seconds (process running for 6.135)
+2025-07-11 20:20:16 [SpringApplicationShutdownHook] DEBUG o.s.w.c.s.GenericWebApplicationContext - Closing org.springframework.web.context.support.GenericWebApplicationContext@7d61eccf, started on Fri Jul 11 20:20:10 COT 2025
+2025-07-11 20:22:08 [main] INFO  c.e.x.service.XadesSignerServiceTest - Starting XadesSignerServiceTest using Java 17.0.12 with PID 8016 (started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 20:22:08 [main] DEBUG c.e.x.service.XadesSignerServiceTest - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 20:22:08 [main] INFO  c.e.x.service.XadesSignerServiceTest - The following 1 profile is active: "dev"
+2025-07-11 20:22:08 [main] DEBUG o.s.w.c.s.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@21ca139c
+2025-07-11 20:22:11 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 4 mappings in 'requestMappingHandlerMapping'
+2025-07-11 20:22:11 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 20:22:11 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 20:22:12 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 20:22:12 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 20:22:13 [main] INFO  c.e.x.service.XadesSignerServiceTest - Started XadesSignerServiceTest in 5.68 seconds (process running for 7.423)
+2025-07-11 20:22:19 [SpringApplicationShutdownHook] DEBUG o.s.w.c.s.GenericWebApplicationContext - Closing org.springframework.web.context.support.GenericWebApplicationContext@21ca139c, started on Fri Jul 11 20:22:08 COT 2025
+2025-07-11 20:22:50 [main] INFO  c.e.x.service.XadesSignerServiceTest - Starting XadesSignerServiceTest using Java 17.0.12 with PID 22020 (started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 20:22:50 [main] DEBUG c.e.x.service.XadesSignerServiceTest - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 20:22:50 [main] INFO  c.e.x.service.XadesSignerServiceTest - The following 1 profile is active: "dev"
+2025-07-11 20:22:50 [main] DEBUG o.s.w.c.s.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@21ca139c
+2025-07-11 20:22:54 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 4 mappings in 'requestMappingHandlerMapping'
+2025-07-11 20:22:54 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 20:22:55 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 20:22:55 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 20:22:56 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 20:22:56 [main] INFO  c.e.x.service.XadesSignerServiceTest - Started XadesSignerServiceTest in 6.759 seconds (process running for 9.243)
+2025-07-11 20:23:01 [SpringApplicationShutdownHook] DEBUG o.s.w.c.s.GenericWebApplicationContext - Closing org.springframework.web.context.support.GenericWebApplicationContext@21ca139c, started on Fri Jul 11 20:22:50 COT 2025
+2025-07-11 20:23:29 [main] INFO  c.e.x.XadesSignerApplication - Starting XadesSignerApplication using Java 17.0.12 with PID 21900 (C:\Users\Usuario\CascadeProjects\xadesMarinos\target\classes started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 20:23:29 [main] DEBUG c.e.x.XadesSignerApplication - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 20:23:29 [main] INFO  c.e.x.XadesSignerApplication - The following 1 profile is active: "dev"
+2025-07-11 20:23:30 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-07-11 20:23:30 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-07-11 20:23:30 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2025-07-11 20:23:30 [main] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring embedded WebApplicationContext
+2025-07-11 20:23:30 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1433 ms
+2025-07-11 20:23:31 [main] DEBUG o.s.w.f.ServerHttpObservationFilter - Filter 'webMvcObservationFilter' configured for use
+2025-07-11 20:23:31 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 4 mappings in 'requestMappingHandlerMapping'
+2025-07-11 20:23:31 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 20:23:31 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 20:23:31 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 20:23:31 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 20:23:31 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/api'
+2025-07-11 20:23:31 [main] INFO  c.e.x.XadesSignerApplication - Started XadesSignerApplication in 2.827 seconds (process running for 3.23)
+2025-07-11 20:24:12 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-07-11 20:24:12 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-07-11 20:24:12 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected StandardServletMultipartResolver
+2025-07-11 20:24:12 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected AcceptHeaderLocaleResolver
+2025-07-11 20:24:12 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected FixedThemeResolver
+2025-07-11 20:24:12 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@7536fec8
+2025-07-11 20:24:12 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.support.SessionFlashMapManager@1471e7a2
+2025-07-11 20:24:12 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2025-07-11 20:24:12 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2025-07-11 20:24:12 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - POST "/api/firma/xades-epes", parameters={}
+2025-07-11 20:24:12 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.example.xadessigner.controller.SignatureController#signXml(SignatureRequest)
+2025-07-11 20:24:12 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Read "application/json;charset=UTF-8" to [com.example.xadessigner.dto.SignatureRequest@26fa7b9c]
+2025-07-11 20:24:12 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Using @ExceptionHandler com.example.xadessigner.exception.GlobalExceptionHandler#handleValidationExceptions(MethodArgumentNotValidException)
+2025-07-11 20:24:12 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2025-07-11 20:24:12 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [{xmlContent=El contenido XML es obligatorio}]
+2025-07-11 20:24:12 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public org.springframework.http.ResponseEntity<?> com.example.xadessigner.controller.SignatureController.signXml(com.example.xadessigner.dto.SignatureRequest): [Field error in object 'signatureRequest' on field 'xmlContent': rejected value [null]; codes [NotBlank.signatureRequest.xmlContent,NotBlank.xmlContent,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [signatureRequest.xmlContent,xmlContent]; arguments []; default message [xmlContent]]; default message [El contenido XML es obligatorio]] ]
+2025-07-11 20:24:12 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Completed 400 BAD_REQUEST
+2025-07-11 21:41:17 [main] INFO  c.e.x.XadesSignerApplication - Starting XadesSignerApplication using Java 17.0.12 with PID 10572 (C:\Users\Usuario\CascadeProjects\xadesMarinos\target\classes started by Usuario in C:\Users\Usuario\CascadeProjects\xadesMarinos)
+2025-07-11 21:41:17 [main] DEBUG c.e.x.XadesSignerApplication - Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-07-11 21:41:17 [main] INFO  c.e.x.XadesSignerApplication - The following 1 profile is active: "dev"
+2025-07-11 21:41:19 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-07-11 21:41:19 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-07-11 21:41:19 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2025-07-11 21:41:19 [main] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring embedded WebApplicationContext
+2025-07-11 21:41:19 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1586 ms
+2025-07-11 21:41:19 [main] DEBUG o.s.w.f.ServerHttpObservationFilter - Filter 'webMvcObservationFilter' configured for use
+2025-07-11 21:41:19 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 4 mappings in 'requestMappingHandlerMapping'
+2025-07-11 21:41:19 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-07-11 21:41:19 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-07-11 21:41:19 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 1 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-07-11 21:41:19 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 14 endpoint(s) beneath base path '/actuator'
+2025-07-11 21:41:20 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/api'
+2025-07-11 21:41:20 [main] INFO  c.e.x.XadesSignerApplication - Started XadesSignerApplication in 3.068 seconds (process running for 3.551)
+2025-07-11 21:41:26 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-07-11 21:41:26 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-07-11 21:41:26 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected StandardServletMultipartResolver
+2025-07-11 21:41:26 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected AcceptHeaderLocaleResolver
+2025-07-11 21:41:26 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected FixedThemeResolver
+2025-07-11 21:41:26 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@520b8452
+2025-07-11 21:41:26 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.support.SessionFlashMapManager@732ca6e1
+2025-07-11 21:41:26 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2025-07-11 21:41:26 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2025-07-11 21:41:26 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - POST "/api/firma/xades-epes", parameters={}
+2025-07-11 21:41:26 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.example.xadessigner.controller.SignatureController#signXml(SignatureRequest)
+2025-07-11 21:41:26 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Read "application/json;charset=UTF-8" to [com.example.xadessigner.dto.SignatureRequest@26962035]
+2025-07-11 21:41:26 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Using @ExceptionHandler com.example.xadessigner.exception.GlobalExceptionHandler#handleValidationExceptions(MethodArgumentNotValidException)
+2025-07-11 21:41:26 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2025-07-11 21:41:26 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [{xmlContent=El contenido XML es obligatorio}]
+2025-07-11 21:41:26 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public org.springframework.http.ResponseEntity<?> com.example.xadessigner.controller.SignatureController.signXml(com.example.xadessigner.dto.SignatureRequest): [Field error in object 'signatureRequest' on field 'xmlContent': rejected value [null]; codes [NotBlank.signatureRequest.xmlContent,NotBlank.xmlContent,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [signatureRequest.xmlContent,xmlContent]; arguments []; default message [xmlContent]]; default message [El contenido XML es obligatorio]] ]
+2025-07-11 21:41:26 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Completed 400 BAD_REQUEST
+2025-07-11 21:42:13 [http-nio-8080-exec-2] DEBUG o.s.web.servlet.DispatcherServlet - POST "/api/firma/xades-epes", parameters={}
+2025-07-11 21:42:13 [http-nio-8080-exec-2] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.example.xadessigner.controller.SignatureController#signXml(SignatureRequest)
+2025-07-11 21:42:13 [http-nio-8080-exec-2] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Read "application/json;charset=UTF-8" to [com.example.xadessigner.dto.SignatureRequest@22466669]
+2025-07-11 21:42:13 [http-nio-8080-exec-2] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Using @ExceptionHandler com.example.xadessigner.exception.GlobalExceptionHandler#handleValidationExceptions(MethodArgumentNotValidException)
+2025-07-11 21:42:13 [http-nio-8080-exec-2] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2025-07-11 21:42:13 [http-nio-8080-exec-2] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [{xmlContent=El contenido XML es obligatorio}]
+2025-07-11 21:42:13 [http-nio-8080-exec-2] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public org.springframework.http.ResponseEntity<?> com.example.xadessigner.controller.SignatureController.signXml(com.example.xadessigner.dto.SignatureRequest): [Field error in object 'signatureRequest' on field 'xmlContent': rejected value [null]; codes [NotBlank.signatureRequest.xmlContent,NotBlank.xmlContent,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [signatureRequest.xmlContent,xmlContent]; arguments []; default message [xmlContent]]; default message [El contenido XML es obligatorio]] ]
+2025-07-11 21:42:13 [http-nio-8080-exec-2] DEBUG o.s.web.servlet.DispatcherServlet - Completed 400 BAD_REQUEST
+2025-07-11 21:45:51 [http-nio-8080-exec-3] DEBUG o.s.web.servlet.DispatcherServlet - POST "/api/firma/xades-epes", parameters={}
+2025-07-11 21:45:51 [http-nio-8080-exec-3] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.example.xadessigner.controller.SignatureController#signXml(SignatureRequest)
+2025-07-11 21:45:51 [http-nio-8080-exec-3] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Read "application/json;charset=UTF-8" to [com.example.xadessigner.dto.SignatureRequest@2744adc8]
+2025-07-11 21:45:53 [http-nio-8080-exec-3] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [application/json, text/plain, */*] and supported [text/plain, */*, application/json, application/*+json]
+2025-07-11 21:45:53 [http-nio-8080-exec-3] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing ["<?xml version="1.0" encoding="UTF-8" standalone="no"?><EOL><EOL><Invoice xmlns="urn:oasis:names:specificatio (truncated)..."]
+2025-07-11 21:45:53 [http-nio-8080-exec-3] DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2025-07-11 21:46:39 [http-nio-8080-exec-5] DEBUG o.s.web.servlet.DispatcherServlet - POST "/api/firma/xades-epes", parameters={}
+2025-07-11 21:46:39 [http-nio-8080-exec-5] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.example.xadessigner.controller.SignatureController#signXml(SignatureRequest)
+2025-07-11 21:46:39 [http-nio-8080-exec-5] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Read "application/json;charset=UTF-8" to [com.example.xadessigner.dto.SignatureRequest@7afc4c20]
+2025-07-11 21:46:39 [http-nio-8080-exec-5] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [application/json, text/plain, */*] and supported [text/plain, */*, application/json, application/*+json]
+2025-07-11 21:46:39 [http-nio-8080-exec-5] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing ["<?xml version="1.0" encoding="UTF-8" standalone="no"?><EOL><EOL><Invoice xmlns="urn:oasis:names:specificatio (truncated)..."]
+2025-07-11 21:46:39 [http-nio-8080-exec-5] DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
